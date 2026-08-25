@@ -1,0 +1,79 @@
+{
+    "org:alternate_names": "Any name used to refer to the assigned organization that is distinct from the \"official\" name. Alternate names may include former names, aliases, alternate spellings, acronyms, abbreviations, translations or transliterations of names, and any official designators such as stock ticker code or airline call sign.",
+		
+    "org:city_of_branch": "Location of the branch, office, or headquarters of the assigned organization at the city, town, or village level.",
+		
+    "org:country_of_branch": "Country in which the branch, office, or headquarters of the assigned organization are located.",
+		
+    "org:dissolved": "The date on which the assigned organization was dissolved. When companies merge to form a new entity, the original companies should be considered as dissolved.",
+		
+    "org:founded": "The date on which the assigned organization was founded.",
+		
+    "org:founded_by": "The person, organization, or geopolitical entity that founded the assigned organization.",
+		
+    "org:member_of": "Organization or geopolitical entity of which the assigned organization is a member or a subsidiary.",
+		
+    "org:members": "Organization or geopolitical entity that is a member or subsidiary of the assigned organization.",
+		
+    "org:number_of_employees/members": "The total number of people who are employed by or have membership in an organization.",
+		
+    "org:political/religious_affiliation": "Ideological group with which the organization is associated.",
+		
+    "org:shareholders": "Any organization, person, or geopolitical entity that holds shares (majority or not) of the organization. Former shareholders are acceptable responses.",
+		
+    "org:stateorprovince_of_branch": "Location of the branch, office, or headquarters of the assigned organization at the state or province level.",
+		
+    "org:top_members/employees": "The person in a high-level, leading position at the assigned organization. Although the definition of 'leading position' is relatively broad, all top member or employee positions should imply a level of decision-making authority over the entire assigned organization.",
+		
+    "org:website": "An official top level URL for the organization's website.",
+		
+    "per:age": "A reported age of the assigned person.",
+		
+    "per:identity": "Both entities refer to the same person, mainly in a pronominal manner.",
+		
+    "per:cause_of_death": "The explicit cause of death for the assigned person.",
+		
+    "per:charges": "The charge or crime (alleged or convicted) of the assigned person.",
+		
+    "per:children": "The child of the assigned person, including adopted and step-children.",
+		
+    "per:cities_of_residence": "Geopolitical entity at the level of city, town, or village in which the assigned person has lived. Note that any mention of the word \"native\" or any of its synonyms cannot be assigned the cities of residence relation.",
+		
+    "per:city_of_birth": "The geopolitical entity at the municipality level (city, town, or village) in which the assigned person was born. Note that a mention of the word \"native\" or any of its synonyms can be assigned the city of birth relation.",
+		
+    "per:city_of_death": "The geopolitical entity at the level of city, town, village in which the assigned person died.",
+		
+    "per:countries_of_residence": "Country in which the assigned person has lived. Note that any mention of the word \"native\" or any of its synonyms cannot be assigned the countries of residence relation.",
+		
+    "per:country_of_birth": "The country in which the assigned person was born. Note that a mention of the word \"native\" or any of its synonyms can be assigned the country of birth relation.",
+		
+    "per:country_of_death": "The country in which the assigned person died.",
+		
+    "per:date_of_birth": "The date on which the assigned person was born.",
+		
+    "per:date_of_death": "The date of the assigned person's death.",
+		
+    "per:employee_of": "The organization or geopolitical entity (government) of which the assigned person has been an employee or member.",
+		
+    "per:origin": "The nationality and/or ethnicity of the assigned person.",
+		
+    "per:other_family": "Family other than siblings, parents, children, and spouse (or former spouse). Correct fillers for this slot include brothers-in-law, sisters-in-law, grandparents, grandchildren, cousins, aunts, uncles, etc.",
+		
+    "per:parents": "The parent of the assigned person. In addition to biological parents, stepparents and adoptive parents are also acceptable answers.",
+		
+    "per:religion": "The religion to which the assigned person has belonged.",
+		
+    "per:schools_attended": "Any school (college, high school, university, etc.) that the assigned person has attended.",
+		
+    "per:siblings": "The brother or sister of the assigned person.",
+		
+    "per:spouse": "The spouse of the assigned person.",
+		
+    "per:stateorprovince_of_birth": "The geopolitical entity at state or province level in which the assigned person was born. Note that a mention of the word \"native\" or any of its synonyms can be assigned the state or province of birth relation.",
+		
+    "per:stateorprovince_of_death": "The geopolitical entity at state or province level in which the assigned person died.",
+		
+    "per:stateorprovinces_of_residence": "Geopolitical entity at the state or province level in which the assigned person has lived. Note that any mention of the word \"native\" or any of its synonyms cannot be assigned the state or provinces of residence relation.",
+		
+    "per:title": "Official or unofficial name of the employment or membership position that has been held by the assigned person."
+}

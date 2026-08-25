@@ -1,0 +1,128 @@
+{
+    "Cause-Effect": [
+        [
+            "The rain causes the river to rise.",
+            "The sun makes the flowers bloom.",
+            "The wind produces a loud noise.",
+            "The fire emits smoke.",
+            "The storm causes the waves to crash.",
+            "The heat causes the ice to melt.",
+            "The music makes the audience dance.",
+            "The light causes the plants to grow.",
+            "The earthquake causes the ground to shake.",
+            "The wind causes the leaves to fall."
+        ]
+    ],
+    "Instrument-Agency": [
+        [
+            "The hammer nails the board.",
+            "The pen writes the letter.",
+            "The brush paints the canvas.",
+            "The scalpel cuts the tissue.",
+            "The spoon stirs the soup.",
+            "The key opens the door.",
+            "The shovel digs the hole.",
+            "The pencil draws the picture.",
+            "The wrench tightens the bolt.",
+            "The rake collects the leaves."
+        ]
+    ],
+    "Product-Producer": [
+        [
+            "Apple produces apples",
+            "Ford manufactures cars",
+            "Microsoft develops software",
+            "Chef prepares meals",
+            "Artist creates paintings",
+            "Baker bakes bread",
+            "Engineer designs buildings",
+            "Writer pens books",
+            "Farmer grows crops",
+            "Teacher educates students"
+        ]
+    ],
+    "Content-Container": [
+        [
+            "The book was stored in the shelf.",
+            "The letter was carried in the envelope.",
+            "The painting was displayed in the frame.",
+            "The document was kept in the folder.",
+            "The key was placed in the keychain.",
+            "The phone was stored in the pocket.",
+            "The pen was carried in the bag.",
+            "The note was written on the paper.",
+            "The coin was placed in the piggy bank.",
+            "The toy was stored in the box."
+        ]
+    ],
+    "Entity-Origin": [
+        [
+            "The river originates from the mountains.",
+            "The book is derived from the author's experiences.",
+            "The company was founded by the entrepreneur.",
+            "The painting is inspired by the artist's vision.",
+            "The recipe originates from the chef's grandmother.",
+            "The song is composed by the musician.",
+            "The invention is credited to the inventor.",
+            "The tradition originates from the ancient culture.",
+            "The language is spoken by the people.",
+            "The monument is built by the architect."
+        ]
+    ],
+    "Entity-Destination": [
+        [
+            "The car drives to the city.",
+            "The bird flies to the nest.",
+            "The letter travels to the post office.",
+            "The student walks to the library.",
+            "The ship sails to the harbor.",
+            "The tourist heads to the museum.",
+            "The package is delivered to the warehouse.",
+            "The train travels to the station.",
+            "The plane lands at the airport.",
+            "The river flows to the ocean."
+        ]
+    ],
+    "Component-Whole": [
+        [
+            "The engine is a component of the car.",
+            "The wheel is a component of the bicycle.",
+            "The battery is a component of the laptop.",
+            "The piston is a component of the engine.",
+            "The blade is a component of the knife.",
+            "The lens is a component of the camera.",
+            "The circuit board is a component of the computer.",
+            "The propeller is a component of the airplane.",
+            "The gear is a component of the watch.",
+            "The bolt is a component of the door."
+        ]
+    ],
+    "Member-Collection": [
+        [
+            "The cat is a member of the family.",
+            "The student is a member of the class.",
+            "The book is a member of the library.",
+            "The employee is a member of the team.",
+            "The car is a member of the fleet.",
+            "The member is a member of the club.",
+            "The citizen is a member of the community.",
+            "The item is a member of the inventory.",
+            "The volunteer is a member of the organization.",
+            "The player is a member of the team."
+        ]
+    ],
+    "Message-Topic": [
+        [
+            "The email discussed the project's progress.",
+            "The text message mentioned the meeting time.",
+            "The letter informed about the new policy.",
+            "The memo highlighted the company's achievements.",
+            "The report detailed the market trends.",
+            "The email announced the event schedule.",
+            "The note reminded about the deadline.",
+            "The message conveyed the team's concerns.",
+            "The memo outlined the project plan.",
+            "The email shared the company's financial results."
+        ]
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "Cause-Effect": [
+        [
+            "Friction generates heat.",
+            "The storm caused flooding.",
+            "Exercise produces endorphins.",
+            "The sun emits ultraviolet radiation.",
+            "Stress triggers anxiety.",
+            "The fire makes smoke.",
+            "Pollution leads to climate change.",
+            "The earthquake created a tsunami.",
+            "The bacteria produce toxins.",
+            "The explosion released energy."
+        ]
+    ],
+    "Instrument-Agency": [
+        [
+            "The chef uses a knife.",
+            "She plays the piano.",
+            "The company employs a lawyer.",
+            "He wields a sword.",
+            "The artist paints with a brush.",
+            "The teacher utilizes a textbook.",
+            "The surgeon operates with a scalpel.",
+            "The driver steers the wheel.",
+            "The researcher analyzes data with software.",
+            "The musician blows a trumpet."
+        ]
+    ],
+    "Product-Producer": [
+        [
+            "Toyota manufactures Corolla.",
+            "The bakery produces fresh bread daily.",
+            "She writes novels.",
+            "The company develops software solutions.",
+            "He designs innovative gadgets.",
+            "The factory assembles smartphones.",
+            "The winery makes fine wines.",
+            "The farm grows organic vegetables.",
+            "The brewery crafts specialty beers.",
+            "The publisher releases new books quarterly."
+        ]
+    ],
+    "Content-Container": [
+        [
+            "The water is stored in the bottle.",
+            "The letter was mailed in the envelope.",
+            "The eggs are packed in the carton.",
+            "The files are saved on the computer.",
+            "The cargo is loaded onto the ship.",
+            "The medicine is contained in the capsule.",
+            "The gift is wrapped in the paper.",
+            "The data is stored on the server.",
+            "The seeds are planted in the soil.",
+            "The luggage is stowed in the compartment."
+        ]
+    ],
+    "Entity-Origin": [
+        [
+            "The company was founded in Japan.",
+            "She is a descendant of Albert Einstein.",
+            "The wine is made from grapes grown in France.",
+            "The car was manufactured in Germany.",
+            "He is a student of Harvard University.",
+            "The painting is a work of Leonardo da Vinci.",
+            "The music is composed by Mozart.",
+            "The theory is based on the work of Charles Darwin.",
+            "The diamond was mined in South Africa.",
+            "The recipe is inspired by the cuisine of Italy."
+        ]
+    ],
+    "Entity-Destination": [
+        [
+            "The student is heading to school.",
+            "The package was shipped to New York.",
+            "The company is expanding into Asia.",
+            "The tourists are traveling to Paris.",
+            "The email was sent to the manager.",
+            "The ball is rolling towards the hole.",
+            "The river flows into the ocean.",
+            "The data is being transmitted to the server.",
+            "The astronaut is flying to Mars.",
+            "The application is being submitted to Harvard."
+        ]
+    ],
+    "Component-Whole": [
+        [
+            "The engine powers the car.",
+            "The keyboard connects to the computer.",
+            "The wheels support the bicycle.",
+            "The roof covers the house.",
+            "The screen displays the phone.",
+            "The pedals control the motorcycle.",
+            "The lens focuses the camera.",
+            "The blades spin the fan.",
+            "The strings vibrate the guitar.",
+            "The processor runs the laptop."
+        ]
+    ],
+    "Member-Collection": [
+        [
+            "Apple is a type of fruit.",
+            "The book belongs to the library collection.",
+            "She is a member of the team.",
+            "The song is part of the album.",
+            "The state is included in the country.",
+            "The employee works for the company.",
+            "The species is classified under the genus.",
+            "The city is located in the province.",
+            "The student is enrolled in the university.",
+            "The element is found in the periodic table."
+        ]
+    ],
+    "Message-Topic": [
+        [
+            "The news article reports on climate change.",
+            "The email discusses the upcoming meeting.",
+            "The warning sign alerts drivers to roadwork.",
+            "The memo outlines the new company policy.",
+            "The announcement celebrates the employee's retirement.",
+            "The review critiques the latest movie release.",
+            "The advertisement promotes the new smartphone model.",
+            "The notification informs users of the system update.",
+            "The report analyzes the economic trends in the industry.",
+            "The press release reveals the details of the new product launch."
+        ]
+    ]
+}

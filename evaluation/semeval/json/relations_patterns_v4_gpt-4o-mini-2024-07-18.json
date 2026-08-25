@@ -1,0 +1,128 @@
+{
+    "Cause-Effect": [
+        [
+            "The heavy rain flooded the streets.",
+            "The lack of sleep caused fatigue.",
+            "The new policy increased employee morale.",
+            "The rising temperatures melted the glaciers.",
+            "The medication alleviated the patient's pain.",
+            "The strong winds uprooted the trees.",
+            "The extended drought diminished the water supply.",
+            "The innovative technology improved productivity.",
+            "The intense training enhanced athletic performance.",
+            "The unexpected delay frustrated the passengers."
+        ]
+    ],
+    "Instrument-Agency": [
+        [
+            "The artist uses a brush to create a painting.",
+            "The chef employs a knife to prepare the ingredients.",
+            "The scientist utilizes a microscope to examine the cells.",
+            "The musician plays a guitar to perform a song.",
+            "The teacher uses a whiteboard to explain the lesson.",
+            "The mechanic employs a wrench to fix the engine.",
+            "The writer utilizes a computer to draft the manuscript.",
+            "The gardener uses a shovel to dig the soil.",
+            "The photographer employs a camera to capture the moment.",
+            "The programmer uses software to develop the application."
+        ]
+    ],
+    "Product-Producer": [
+        [
+            "The smartphone is manufactured by Apple.",
+            "The novel is written by J.K. Rowling.",
+            "The car is designed by Tesla.",
+            "The software is developed by Microsoft.",
+            "The cheese is produced by a local dairy farm.",
+            "The movie is directed by Christopher Nolan.",
+            "The furniture is crafted by IKEA.",
+            "The vaccine is created by Pfizer.",
+            "The clothing line is launched by Gucci.",
+            "The music album is recorded by Taylor Swift."
+        ]
+    ],
+    "Content-Container": [
+        [
+            "The letter is inside the envelope.",
+            "The groceries are in the shopping bag.",
+            "The water is held in the bottle.",
+            "The toys are stored in the toy chest.",
+            "The documents are kept in the folder.",
+            "The clothes are packed in the suitcase.",
+            "The food is contained in the Tupperware.",
+            "The books are placed on the shelf.",
+            "The files are organized in the cabinet.",
+            "The money is kept in the wallet."
+        ]
+    ],
+    "Entity-Origin": [
+        [
+            "Silk originates from silkworms.",
+            "Wine is produced from grapes.",
+            "Chocolate comes from cacao beans.",
+            "Paper is made from trees.",
+            "Olive oil is extracted from olives.",
+            "Honey is derived from bees.",
+            "Cotton is harvested from cotton plants.",
+            "Cheese is crafted from milk.",
+            "Rubber is sourced from rubber trees.",
+            "Spices are obtained from plants."
+        ]
+    ],
+    "Entity-Destination": [
+        [
+            "The train travels to the station.",
+            "The river flows into the ocean.",
+            "The student moves toward the library.",
+            "The package is shipped to the customer.",
+            "The bird flies to the nest.",
+            "The message is sent to the recipient.",
+            "The hiker walks toward the mountain.",
+            "The light beam directs to the prism.",
+            "The car drives to the parking lot.",
+            "The artist submits the painting to the gallery."
+        ]
+    ],
+    "Component-Whole": [
+        [
+            "The wheel is part of the car.",
+            "The leaf is a component of the tree.",
+            "The engine powers the airplane.",
+            "The chapter belongs to the book.",
+            "The room is inside the house.",
+            "The petal is a section of the flower.",
+            "The handle is attached to the door.",
+            "The key is essential for the lock.",
+            "The string is part of the guitar.",
+            "The tire supports the bicycle."
+        ]
+    ],
+    "Member-Collection": [
+        [
+            "A cat is a member of the animal kingdom.",
+            "An apple belongs to the fruit basket.",
+            "A student is part of the classroom.",
+            "A rose is included in the bouquet.",
+            "A shark is a member of the ocean's ecosystem.",
+            "A novel is part of the literary collection.",
+            "A piano belongs to the musical instruments.",
+            "A player is included in the sports team.",
+            "A leaf is a member of the plant family.",
+            "A car is part of the vehicle fleet."
+        ]
+    ],
+    "Message-Topic": [
+        [
+            "The email discusses the upcoming project deadline.",
+            "The report highlights the recent market trends.",
+            "The presentation outlines the benefits of renewable energy.",
+            "The article explains the causes of climate change.",
+            "The podcast explores the impact of social media on mental health.",
+            "The lecture covers the history of ancient civilizations.",
+            "The blog post reviews the latest smartphone features.",
+            "The news segment reports on the effects of inflation.",
+            "The book delves into the intricacies of human psychology.",
+            "The documentary investigates the challenges of urban development."
+        ]
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "Cause-Effect": [
+        [
+            "Sunlight fuels photosynthesis.",
+            "Exercise builds muscle.",
+            "Stress triggers headaches.",
+            "Heat expands metal.",
+            "Wind erodes sandstone.",
+            "Bacteria cause infection.",
+            "Neglect fosters resentment.",
+            "Laughter releases endorphins.",
+            "Pollution generates smog.",
+            "Pressure creates diamonds."
+        ]
+    ],
+    "Instrument-Agency": [
+        [
+            "Hammer built the house.",
+            "Pen wrote the letter.",
+            "Microscope revealed the bacteria.",
+            "Computer calculated the results.",
+            "Scalpel incised the tissue.",
+            "Brush painted the canvas.",
+            "Shovel dug the hole.",
+            "Telephone connected the friends.",
+            "Camera captured the moment.",
+            "Law enforced the order."
+        ]
+    ],
+    "Product-Producer": [
+        [
+            "Apples grow from trees.",
+            "Honeybees create honey.",
+            "Authors write novels.",
+            "Factories manufacture cars.",
+            "Cows yield milk.",
+            "Spiders spin webs.",
+            "Chefs prepare meals.",
+            "Bees produce wax.",
+            "Volcanoes erupt lava.",
+            "Photographers capture images."
+        ]
+    ],
+    "Content-Container": [
+        [
+            "Water filled the bottle.",
+            "Letters resided within the envelope.",
+            "Grain occupied the silo.",
+            "Secrets lay hidden inside the diary.",
+            "Cargo traveled aboard the ship.",
+            "Paint covered the can.",
+            "Dust collected within the attic.",
+            "Information streamed through the cable.",
+            "Wine matured inside the barrel.",
+            "Eggs nestled in the carton."
+        ]
+    ],
+    "Entity-Origin": [
+        [
+            "Rumors originated with the tabloid.",
+            "The melody stemmed from a childhood lullaby.",
+            "My inspiration arose from observing nature.",
+            "The conflict evolved from a misunderstanding.",
+            "This tradition descended from ancient rituals.",
+            "The painting emerged from her subconscious.",
+            "The disease sprang from a viral mutation.",
+            "The concept blossomed from a simple idea.",
+            "His authority derived from popular support.",
+            "The river flowed from the glacial melt."
+        ]
+    ],
+    "Entity-Destination": [
+        [
+            "The river flows toward the ocean.",
+            "Hope guides her towards recovery.",
+            "The missile hurtled towards its target.",
+            "Immigrants journey towards opportunity.",
+            "Criticism drove him towards isolation.",
+            "The data streams towards the server.",
+            "Her gaze drifted towards the horizon.",
+            "Investment funnels towards renewable energy.",
+            "The argument escalated towards a shouting match.",
+            "Light bends towards the black hole."
+        ]
+    ],
+    "Component-Whole": [
+        [
+            "Keys unlock doors.",
+            "Ingredients compose recipes.",
+            "Pixels form images.",
+            "Chapters build novels.",
+            "Strings constitute guitars.",
+            "Neurons create brains.",
+            "Letters spell words.",
+            "Bricks construct walls.",
+            "Sailors man ships.",
+            "Members populate committees."
+        ]
+    ],
+    "Member-Collection": [
+        [
+            "Apple belongs to Fruit.",
+            "Student attends University.",
+            "Note comprises Notebook.",
+            "Soldier serves Army.",
+            "Chapter forms Book.",
+            "Pixel constitutes Image.",
+            "Star exists within Galaxy.",
+            "Ingredient combines into Recipe.",
+            "Employee works for Company.",
+            "Brick builds House."
+        ]
+    ],
+    "Message-Topic": [
+        [
+            "The email detailed the upcoming conference schedule.",
+            "Her speech addressed the issue of climate change.",
+            "The news report covered the recent earthquake in Nepal.",
+            "A text message confirmed the dinner reservation.",
+            "The letter explained the new company policy.",
+            "His blog post discussed the benefits of meditation.",
+            "The announcement revealed the winner of the contest.",
+            "A warning alerted residents to the approaching storm.",
+            "The memo outlined the project's budget constraints.",
+            "The advertisement promoted the new smartphone features."
+        ]
+    ]
+}

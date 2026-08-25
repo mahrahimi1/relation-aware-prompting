@@ -1,0 +1,128 @@
+{
+    "Cause-Effect": [
+        [
+            "The storm flooded the streets.",
+            "Smoking increases the risk of cancer.",
+            "The sun melts the ice.",
+            "Friction generates heat.",
+            "The earthquake destroyed the bridge.",
+            "Lack of sleep impairs concentration.",
+            "The factory emits toxic fumes.",
+            "The vaccine prevents infection.",
+            "Stress triggers headaches.",
+            "The alarm woke the children."
+        ]
+    ],
+    "Instrument-Agency": [
+        [
+            "The chef slices vegetables with a knife.",
+            "The artist paints a portrait using a brush.",
+            "The carpenter measures wood with a tape measure.",
+            "The scientist examines samples under a microscope.",
+            "The writer drafts a novel on a laptop.",
+            "The photographer captures images with a camera.",
+            "The surgeon performs surgery using a scalpel.",
+            "The gardener trims hedges with shears.",
+            "The musician composes music on a piano.",
+            "The mechanic tightens bolts with a wrench."
+        ]
+    ],
+    "Product-Producer": [
+        [
+            "The chef bakes bread.",
+            "The author writes novels.",
+            "The factory manufactures cars.",
+            "The bee makes honey.",
+            "The composer creates symphonies.",
+            "The brewery brews beer.",
+            "The artist paints portraits.",
+            "The orchard grows apples.",
+            "The designer sketches dresses.",
+            "The potter shapes vases."
+        ]
+    ],
+    "Content-Container": [
+        [
+            "The cookies filled the jar.",
+            "She packed her clothes into the suitcase.",
+            "The water sloshed inside the bucket.",
+            "He stored the documents in the filing cabinet.",
+            "The eggs rested in the carton.",
+            "They kept the wine in the cellar.",
+            "The tools rattled around in the toolbox.",
+            "The groceries sat in the shopping bag.",
+            "The letters were hidden in the drawer.",
+            "The gold coins lay buried in the chest."
+        ]
+    ],
+    "Entity-Origin": [
+        [
+            "Mozzarella cheese originates from Italy.",
+            "The Nile flows from Lake Victoria.",
+            "The rumor stemmed from the manager.",
+            "The perfume is extracted from jasmine flowers.",
+            "The tradition comes from ancient Greece.",
+            "The painting was inspired by the Renaissance.",
+            "The vaccine was developed from a weakened virus.",
+            "The legend arose from local folklore.",
+            "The melody was borrowed from a folk song.",
+            "The sculpture was carved from marble."
+        ]
+    ],
+    "Entity-Destination": [
+        [
+            "The train arrived at the station.",
+            "The letter was sent to the recipient.",
+            "The river flows into the ocean.",
+            "The student transferred to a new school.",
+            "The package was delivered to the office.",
+            "The bird migrated to the south.",
+            "The data was uploaded to the server.",
+            "The troops advanced toward the border.",
+            "The child ran to her mother.",
+            "The application was submitted to the committee."
+        ]
+    ],
+    "Component-Whole": [
+        [
+            "A petal adorns the flower.",
+            "A key fits into the keyboard.",
+            "A chapter forms part of the novel.",
+            "A wheel supports the car.",
+            "A page fills the book.",
+            "A leaf grows on the tree.",
+            "A room makes up the house.",
+            "A note composes the melody.",
+            "A cell builds the organism.",
+            "A brick constructs the wall."
+        ]
+    ],
+    "Member-Collection": [
+        [
+            "A lion belongs to a pride.",
+            "A page fills a book.",
+            "A cherry is part of a bunch.",
+            "A senator serves in a senate.",
+            "A leaf grows on a tree.",
+            "A player joins a team.",
+            "A song features in an album.",
+            "A bee inhabits a hive.",
+            "A card completes a deck.",
+            "A star shines in a constellation."
+        ]
+    ],
+    "Message-Topic": [
+        [
+            "The email explained the new company policy.",
+            "Her speech addressed climate change.",
+            "The article discussed artificial intelligence.",
+            "The memo outlined the project timeline.",
+            "His lecture covered quantum mechanics.",
+            "The announcement mentioned the upcoming event.",
+            "The report analyzed market trends.",
+            "The text message confirmed the dinner reservation.",
+            "The podcast explored mental health issues.",
+            "The press release revealed the merger details."
+        ]
+    ]
+}

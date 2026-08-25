@@ -1,0 +1,916 @@
+{
+    "org:founded_by": [
+        [
+            "organization",
+            "person",
+            [
+                "<ENT0>Microsoft</ENT0> was founded by <ENT1>Bill Gates</ENT1> and <ENT1>Paul Allen</ENT1>.",
+                "<ENT0>Apple</ENT0> was founded by <ENT1>Steve Jobs</ENT1>, <ENT1>Steve Wozniak</ENT1>, and <ENT1>Ronald Wayne</ENT1>.",
+                "<ENT0>Google</ENT0> was founded by <ENT1>Larry Page</ENT1> and <ENT1>Sergey Brin</ENT1>.",
+                "<ENT0>Facebook</ENT0> was founded by <ENT1>Mark Zuckerberg</ENT1>.",
+                "<ENT0>Amazon</ENT0> was founded by <ENT1>Jeff Bezos</ENT1>.",
+                "<ENT0>Tesla</ENT0> was founded by <ENT1>Elon Musk</ENT1>.",
+                "<ENT0>SpaceX</ENT0> was founded by <ENT1>Elon Musk</ENT1>.",
+                "<ENT0>Twitter</ENT0> was founded by <ENT1>Jack Dorsey</ENT1>, <ENT1>Evan Williams</ENT1>, <ENT1>Biz Stone</ENT1>, and <ENT1>Noah Glass</ENT1>.",
+                "<ENT0>Uber</ENT0> was founded by <ENT1>Garrett Camp</ENT1>, <ENT1>Travis Kalanick</ENT1>, and <ENT1>Gautam Gupta</ENT1>.",
+                "<ENT0>Airbnb</ENT0> was founded by <ENT1>Brian Chesky</ENT1>, <ENT1>Joe Gebbia</ENT1>, and <ENT1>Nathan Blecharczyk</ENT1>."
+            ]
+        ]
+    ],
+    "per:employee_of": [
+        [
+            "person",
+            "organization",
+            [
+                "<ENT0>John Doe</ENT0> is an employee of <ENT1>ABC Corporation</ENT1>",
+                "<ENT0>Jane Smith</ENT0> works for <ENT1>XYZ Inc.</ENT1>",
+                "<ENT0>Michael Brown</ENT0> is a member of <ENT1>Government of Canada</ENT1>",
+                "<ENT0>Emily Davis</ENT0> is employed by <ENT1>Tech Solutions Ltd.</ENT1>",
+                "<ENT0>Robert Johnson</ENT0> is an employee of <ENT1>Global Enterprises</ENT1>",
+                "<ENT0>Patricia Wilson</ENT0> works for <ENT1>Healthcare Services</ENT1>",
+                "<ENT0>David Lee</ENT0> is a member of <ENT1>European Union</ENT1>",
+                "<ENT0>Laura Martinez</ENT0> is employed by <ENT1>Green Energy Co.</ENT1>",
+                "<ENT0>James Taylor</ENT0> is an employee of <ENT1>Financial Institutions</ENT1>",
+                "<ENT0>Sara Anderson</ENT0> works for <ENT1>Educational Institutions</ENT1>"
+            ]
+        ]
+    ],
+    "org:alternate_names": [
+        [
+            "organization",
+            "organization",
+            [
+                "The <ENT0>World Health Organization</ENT0> is also known as <ENT1>WHO</ENT1>.",
+                "The <ENT0>International Monetary Fund</ENT0> is often referred to as <ENT1>IMF</ENT1>.",
+                "The <ENT0>Apple Inc.</ENT0> is sometimes called <ENT1>Apple</ENT1>.",
+                "The <ENT0>Microsoft Corporation</ENT0> is also known as <ENT1>MSFT</ENT1>.",
+                "The <ENT0>Google LLC</ENT0> is often referred to as <ENT1>Alphabet Inc.</ENT1>.",
+                "The <ENT0>Amazon.com Inc.</ENT0> is sometimes called <ENT1>AMZN</ENT1>.",
+                "The <ENT0>Facebook, Inc.</ENT0> is also known as <ENT1>Meta</ENT1>.",
+                "The <ENT0>Tesla, Inc.</ENT0> is often referred to as <ENT1>TSLA</ENT1>.",
+                "The <ENT0>Alibaba Group Holding Limited</ENT0> is sometimes called <ENT1>BABA</ENT1>.",
+                "The <ENT0>Samsung Electronics Co., Ltd.</ENT0> is also known as <ENT1>Samsung</ENT1>."
+            ]
+        ]
+    ],
+    "per:cities_of_residence": [
+        [
+            "person",
+            "city",
+            [
+                "<ENT0>John</ENT0> lives in <ENT1>New York</ENT1>",
+                "<ENT0>Jane</ENT0> resides in <ENT1>Los Angeles</ENT1>",
+                "<ENT0>Michael</ENT0> is based in <ENT1>Chicago</ENT1>",
+                "<ENT0>Emily</ENT0> calls <ENT1>San Francisco</ENT1> home",
+                "<ENT0>David</ENT0> lives in <ENT1>Houston</ENT1>",
+                "<ENT0>Sarah</ENT0> resides in <ENT1>Phoenix</ENT1>",
+                "<ENT0>Daniel</ENT0> is based in <ENT1>Philadelphia</ENT1>",
+                "<ENT0>Olivia</ENT0> calls <ENT1>San Diego</ENT1> home",
+                "<ENT0>James</ENT0> lives in <ENT1>Dallas</ENT1>",
+                "<ENT0>Sophia</ENT0> resides in <ENT1>San Jose</ENT1>"
+            ]
+        ]
+    ],
+    "per:children": [
+        [
+            "person",
+            "person",
+            [
+                "<ENT0>John</ENT0> has <ENT1>Jane</ENT1> as a child.",
+                "<ENT0>Mary</ENT0> is the mother of <ENT1>Tom</ENT1>.",
+                "<ENT0>David</ENT0> has <ENT1>Emma</ENT1> as a step-child.",
+                "<ENT0>Sarah</ENT0> adopted <ENT1>Liam</ENT1>.",
+                "<ENT0>Michael</ENT0> has <ENT1>Sophia</ENT1> as a child.",
+                "<ENT0>Emily</ENT0> is the parent of <ENT1>Charlie</ENT1>.",
+                "<ENT0>Robert</ENT0> has <ENT1>Olivia</ENT1> as a child.",
+                "<ENT0>Laura</ENT0> is the mother of <ENT1>Max</ENT1>.",
+                "<ENT0>Daniel</ENT0> has <ENT1>Grace</ENT1> as a step-child.",
+                "<ENT0>Natalie</ENT0> adopted <ENT1>Ethan</ENT1>."
+            ]
+        ]
+    ],
+    "per:title": [
+        [
+            "person",
+            "title",
+            [
+                "The <ENT0>John Doe</ENT0> is the <ENT1>CEO</ENT1> of the company.",
+                "The <ENT0>Jane Smith</ENT0> holds the position of <ENT1>Manager</ENT1>.",
+                "The <ENT0>Michael Johnson</ENT0> is the <ENT1>Director</ENT1> of the department.",
+                "The <ENT0>Emily Davis</ENT0> serves as the <ENT1>President</ENT1> of the organization.",
+                "The <ENT0>Robert Brown</ENT0> is the <ENT1>Secretary</ENT1> of the club.",
+                "The <ENT0>Patricia Wilson</ENT0> holds the title of <ENT1>Chairman</ENT1>.",
+                "The <ENT0>David Taylor</ENT0> is the <ENT1>Treasurer</ENT1> of the association.",
+                "The <ENT0>Laura Anderson</ENT0> is the <ENT1>Editor</ENT1> of the magazine.",
+                "The <ENT0>James Thomas</ENT0> is the <ENT1>Coordinator</ENT1> of the event.",
+                "The <ENT0>Susan White</ENT0> is the <ENT1>Consultant</ENT1> for the project."
+            ]
+        ]
+    ],
+    "per:siblings": [
+        [
+            "person",
+            "person",
+            [
+                "The <ENT0>John</ENT0> is the brother of the <ENT1>Jane</ENT1>.",
+                "The <ENT0>Jane</ENT0> is the sister of the <ENT1>John</ENT1>.",
+                "The <ENT0>John</ENT0> has a brother named <ENT1>Mike</ENT1>.",
+                "The <ENT0>Jane</ENT0> has a sister named <ENT1>Emily</ENT1>.",
+                "The <ENT0>John</ENT0> is the older brother of the <ENT1>Mike</ENT1>.",
+                "The <ENT0>Jane</ENT0> is the younger sister of the <ENT1>Emily</ENT1>.",
+                "The <ENT0>John</ENT0> and the <ENT1>Mike</ENT1> are brothers.",
+                "The <ENT0>Jane</ENT0> and the <ENT1>Emily</ENT1> are sisters.",
+                "The <ENT0>John</ENT0> is the brother of the <ENT1>Mike</ENT1>.",
+                "The <ENT0>Jane</ENT0> is the sister of the <ENT1>Emily</ENT1>."
+            ]
+        ]
+    ],
+    "per:religion": [
+        [
+            "person",
+            "religion",
+            [
+                "<ENT0>John</ENT0> follows <ENT1>Christianity</ENT1>",
+                "<ENT0>Mary</ENT0> practices <ENT1>Islam</ENT1>",
+                "<ENT0>David</ENT0> belongs to <ENT1>Judaism</ENT1>",
+                "<ENT0>Sara</ENT0> adheres to <ENT1>Buddhism</ENT1>",
+                "<ENT0>Michael</ENT0> is a member of <ENT1>Hinduism</ENT1>",
+                "<ENT0>Emma</ENT0> worships <ENT1>Sikhism</ENT1>",
+                "<ENT0>Robert</ENT0> is devoted to <ENT1>Taoism</ENT1>",
+                "<ENT0>Laura</ENT0> believes in <ENT1>Shinto</ENT1>",
+                "<ENT0>James</ENT0> practices <ENT1>Bah\u00e1'\u00ed Faith</ENT1>",
+                "<ENT0>Olivia</ENT0> is a follower of <ENT1>Zoroastrianism</ENT1>"
+            ]
+        ]
+    ],
+    "per:age": [
+        [
+            "person",
+            "number",
+            [
+                "The person <ENT0>John</ENT0> is <ENT1>30</ENT1> years old.",
+                "The person <ENT0>Jane</ENT0> is <ENT1>25</ENT1> years old.",
+                "The person <ENT0>Mike</ENT0> is <ENT1>40</ENT1> years old.",
+                "The person <ENT0>Emily</ENT0> is <ENT1>28</ENT1> years old.",
+                "The person <ENT0>David</ENT0> is <ENT1>35</ENT1> years old.",
+                "The person <ENT0>Sarah</ENT0> is <ENT1>22</ENT1> years old.",
+                "The person <ENT0>Daniel</ENT0> is <ENT1>38</ENT1> years old.",
+                "The person <ENT0>Olivia</ENT0> is <ENT1>29</ENT1> years old.",
+                "The person <ENT0>James</ENT0> is <ENT1>45</ENT1> years old.",
+                "The person <ENT0>Sophia</ENT0> is <ENT1>27</ENT1> years old."
+            ]
+        ],
+        [
+            "person",
+            "duration",
+            [
+                "The person <ENT0>John</ENT0> is <ENT1>30</ENT1> years old.",
+                "The person <ENT0>Jane</ENT0> is <ENT1>25</ENT1> years old.",
+                "The person <ENT0>Mike</ENT0> is <ENT1>40</ENT1> years old.",
+                "The person <ENT0>Emily</ENT0> is <ENT1>28</ENT1> years old.",
+                "The person <ENT0>David</ENT0> is <ENT1>35</ENT1> years old.",
+                "The person <ENT0>Sarah</ENT0> is <ENT1>22</ENT1> years old.",
+                "The person <ENT0>Daniel</ENT0> is <ENT1>38</ENT1> years old.",
+                "The person <ENT0>Olivia</ENT0> is <ENT1>29</ENT1> years old.",
+                "The person <ENT0>James</ENT0> is <ENT1>45</ENT1> years old.",
+                "The person <ENT0>Sophia</ENT0> is <ENT1>27</ENT1> years old."
+            ]
+        ]
+    ],
+    "org:website": [
+        [
+            "organization",
+            "url",
+            [
+                "<ENT0>Organization</ENT0> has website <ENT1>https://www.organization.com</ENT1>",
+                "<ENT0>Company</ENT0> owns website <ENT1>https://www.company.com</ENT1>",
+                "<ENT0>Institution</ENT0> operates website <ENT1>https://www.institution.org</ENT1>",
+                "<ENT0>Firm</ENT0> maintains website <ENT1>https://www.firm.net</ENT1>",
+                "<ENT0>Corporation</ENT0> hosts website <ENT1>https://www.corporation.com</ENT1>",
+                "<ENT0>Foundation</ENT0> manages website <ENT1>https://www.foundation.org</ENT1>",
+                "<ENT0>Association</ENT0> provides website <ENT1>https://www.association.com</ENT1>",
+                "<ENT0>Society</ENT0> runs website <ENT1>https://www.society.org</ENT1>",
+                "<ENT0>Group</ENT0> owns website <ENT1>https://www.group.net</ENT1>",
+                "<ENT0>Organization</ENT0> operates website <ENT1>https://www.organization.com</ENT1>"
+            ]
+        ]
+    ],
+    "per:stateorprovinces_of_residence": [
+        [
+            "person",
+            "state or province",
+            [
+                "<ENT0>John</ENT0> lives in <ENT1>California</ENT1>",
+                "<ENT0>Jane</ENT0> resides in <ENT1>Texas</ENT1>",
+                "<ENT0>Mike</ENT0> is from <ENT1>New York</ENT1>",
+                "<ENT0>Emily</ENT0> calls <ENT1>Florida</ENT1> home",
+                "<ENT0>David</ENT0> lives in <ENT1>Ontario</ENT1>",
+                "<ENT0>Sarah</ENT0> resides in <ENT1>Quebec</ENT1>",
+                "<ENT0>Chris</ENT0> is from <ENT1>Victoria</ENT1>",
+                "<ENT0>Laura</ENT0> lives in <ENT1>British Columbia</ENT1>",
+                "<ENT0>Tom</ENT0> resides in <ENT1>Alberta</ENT1>",
+                "<ENT0>Emma</ENT0> is from <ENT1>Saskatchewan</ENT1>"
+            ]
+        ]
+    ],
+    "org:member_of": [
+        [
+            "organization",
+            "organization",
+            [
+                "<ENT0>NASA</ENT0> is a member of <ENT1>United States</ENT1>",
+                "<ENT0>UNICEF</ENT0> is a member of <ENT1>United Nations</ENT1>",
+                "<ENT0>FIFA</ENT0> is a member of <ENT1>International Olympic Committee</ENT1>",
+                "<ENT0>World Bank</ENT0> is a member of <ENT1>International Monetary Fund</ENT1>",
+                "<ENT0>Red Cross</ENT0> is a member of <ENT1>International Federation of Red Cross and Red Crescent Societies</ENT1>",
+                "<ENT0>Greenpeace</ENT0> is a member of <ENT1>International Network of Non-Governmental Organizations</ENT1>",
+                "<ENT0>World Health Organization</ENT0> is a member of <ENT1>United Nations</ENT1>",
+                "<ENT0>European Union</ENT0> is a member of <ENT1>United Nations</ENT1>",
+                "<ENT0>NATO</ENT0> is a member of <ENT1>North Atlantic Treaty Organization</ENT1>",
+                "<ENT0>Interpol</ENT0> is a member of <ENT1>International Criminal Police Organization</ENT1>"
+            ]
+        ],
+        [
+            "organization",
+            "country",
+            [
+                "<ENT0>UN</ENT0> is a member of <ENT1>United Nations</ENT1>",
+                "<ENT0>NATO</ENT0> is a member of <ENT1>North Atlantic Treaty Organization</ENT1>",
+                "<ENT0>EU</ENT0> is a member of <ENT1>European Union</ENT1>",
+                "<ENT0>OECD</ENT0> is a member of <ENT1>Organisation for Economic Co-operation and Development</ENT1>",
+                "<ENT0>WTO</ENT0> is a member of <ENT1>World Trade Organization</ENT1>",
+                "<ENT0>IMF</ENT0> is a member of <ENT1>International Monetary Fund</ENT1>",
+                "<ENT0>WHO</ENT0> is a member of <ENT1>World Health Organization</ENT1>",
+                "<ENT0>UNESCO</ENT0> is a member of <ENT1>United Nations Educational, Scientific and Cultural Organization</ENT1>",
+                "<ENT0>Interpol</ENT0> is a member of <ENT1>International Criminal Police Organization</ENT1>",
+                "<ENT0>Red Cross</ENT0> is a member of <ENT1>International Committee of the Red Cross</ENT1>"
+            ]
+        ],
+        [
+            "organization",
+            "state or province",
+            [
+                "<ENT0>Apple</ENT0> is a member of <ENT1>California</ENT1>",
+                "<ENT0>Microsoft</ENT0> is a member of <ENT1>Washington</ENT1>",
+                "<ENT0>Google</ENT0> is a member of <ENT1>Texas</ENT1>",
+                "<ENT0>Amazon</ENT0> is a member of <ENT1>New York</ENT1>",
+                "<ENT0>Facebook</ENT0> is a member of <ENT1>Illinois</ENT1>",
+                "<ENT0>Tesla</ENT0> is a member of <ENT1>California</ENT1>",
+                "<ENT0>SpaceX</ENT0> is a member of <ENT1>California</ENT1>",
+                "<ENT0>Nike</ENT0> is a member of <ENT1>Oregon</ENT1>",
+                "<ENT0>Adidas</ENT0> is a member of <ENT1>Germany</ENT1>",
+                "<ENT0>Samsung</ENT0> is a member of <ENT1>South Korea</ENT1>"
+            ]
+        ]
+    ],
+    "org:top_members/employees": [
+        [
+            "organization",
+            "person",
+            [
+                "<ENT0>Company</ENT0> has <ENT1>CEO</ENT1>.",
+                "<ENT0>Organization</ENT0> is led by <ENT1>President</ENT1>.",
+                "<ENT0>Firm</ENT0> is managed by <ENT1>Chairman</ENT1>.",
+                "<ENT0>Institution</ENT0> is directed by <ENT1>Director</ENT1>.",
+                "<ENT0>Corporation</ENT0> is overseen by <ENT1>Board of Directors</ENT1>.",
+                "<ENT0>Company</ENT0> is headed by <ENT1>Chief Executive Officer</ENT1>.",
+                "<ENT0>Organization</ENT0> is governed by <ENT1>Executive Committee</ENT1>.",
+                "<ENT0>Firm</ENT0> is guided by <ENT1>Management Team</ENT1>.",
+                "<ENT0>Institution</ENT0> is led by <ENT1>Executive Director</ENT1>.",
+                "<ENT0>Corporation</ENT0> is directed by <ENT1>Chief Operating Officer</ENT1>."
+            ]
+        ]
+    ],
+    "per:countries_of_residence": [
+        [
+            "person",
+            "country",
+            [
+                "<ENT0>John</ENT0> lives in <ENT1>Canada</ENT1>",
+                "<ENT0>Jane</ENT0> resides in <ENT1>France</ENT1>",
+                "<ENT0>Mark</ENT0> is from <ENT1>Australia</ENT1>",
+                "<ENT0>Emily</ENT0> resides in <ENT1>Germany</ENT1>",
+                "<ENT0>David</ENT0> lives in <ENT1>Japan</ENT1>",
+                "<ENT0>Sophia</ENT0> is based in <ENT1>Brazil</ENT1>",
+                "<ENT0>Michael</ENT0> resides in <ENT1>Italy</ENT1>",
+                "<ENT0>Olivia</ENT0> lives in <ENT1>Spain</ENT1>",
+                "<ENT0>Daniel</ENT0> is from <ENT1>India</ENT1>",
+                "<ENT0>Emma</ENT0> resides in <ENT1>China</ENT1>"
+            ]
+        ],
+        [
+            "person",
+            "nationality",
+            [
+                "<ENT0>John</ENT0> resides in <ENT1>Canada</ENT1>",
+                "<ENT0>Jane</ENT0> lives in <ENT1>France</ENT1>",
+                "<ENT0>David</ENT0> is a resident of <ENT1>Australia</ENT1>",
+                "<ENT0>Maria</ENT0> resides in <ENT1>Germany</ENT1>",
+                "<ENT0>Michael</ENT0> lives in <ENT1>Japan</ENT1>",
+                "<ENT0>Sophia</ENT0> is a resident of <ENT1>Brazil</ENT1>",
+                "<ENT0>Daniel</ENT0> resides in <ENT1>Italy</ENT1>",
+                "<ENT0>Emma</ENT0> lives in <ENT1>Spain</ENT1>",
+                "<ENT0>James</ENT0> is a resident of <ENT1>China</ENT1>",
+                "<ENT0>Olivia</ENT0> resides in <ENT1>India</ENT1>"
+            ]
+        ]
+    ],
+    "org:city_of_headquarters": [
+        [
+            "organization",
+            "city",
+            [
+                "<ENT0>Apple</ENT0> is headquartered in <ENT1>Cupertino</ENT1>",
+                "<ENT0>Microsoft</ENT0> has its headquarters in <ENT1>Redmond</ENT1>",
+                "<ENT0>Google</ENT0> is based in <ENT1>Mountain View</ENT1>",
+                "<ENT0>Amazon</ENT0> is headquartered in <ENT1>Seattle</ENT1>",
+                "<ENT0>Facebook</ENT0> is located in <ENT1>Menlo Park</ENT1>",
+                "<ENT0>Tesla</ENT0> has its headquarters in <ENT1>Palo Alto</ENT1>",
+                "<ENT0>Nike</ENT0> is headquartered in <ENT1>Beaverton</ENT1>",
+                "<ENT0>Coca-Cola</ENT0> is based in <ENT1>Atlanta</ENT1>",
+                "<ENT0>Ford</ENT0> has its headquarters in <ENT1>Dearborn</ENT1>",
+                "<ENT0>IBM</ENT0> is located in <ENT1>Armonk</ENT1>"
+            ]
+        ]
+    ],
+    "org:members": [
+        [
+            "organization",
+            "organization",
+            [
+                "<ENT0>Organization A</ENT0> is a member of <ENT1>Organization B</ENT1>",
+                "<ENT0>Organization A</ENT0> is a member of <ENT1>Organization B</ENT1>",
+                "<ENT0>Organization A</ENT0> is a member of <ENT1>Organization B</ENT1>",
+                "<ENT0>Organization A</ENT0> is a member of <ENT1>Organization B</ENT1>",
+                "<ENT0>Organization A</ENT0> is a member of <ENT1>Organization B</ENT1>",
+                "<ENT0>Organization A</ENT0> is a member of <ENT1>Organization B</ENT1>",
+                "<ENT0>Organization A</ENT0> is a member of <ENT1>Organization B</ENT1>",
+                "<ENT0>Organization A</ENT0> is a member of <ENT1>Organization B</ENT1>",
+                "<ENT0>Organization A</ENT0> is a member of <ENT1>Organization B</ENT1>",
+                "<ENT0>Organization A</ENT0> is a member of <ENT1>Organization B</ENT1>"
+            ]
+        ],
+        [
+            "organization",
+            "country",
+            [
+                "<ENT0>Organization</ENT0> has <ENT1>Country</ENT1> as a member.",
+                "<ENT0>Organization</ENT0> includes <ENT1>Country</ENT1> in its membership.",
+                "<ENT0>Organization</ENT0> counts <ENT1>Country</ENT1> among its members.",
+                "<ENT0>Organization</ENT0> lists <ENT1>Country</ENT1> as a member.",
+                "<ENT0>Organization</ENT0> recognizes <ENT1>Country</ENT1> as a member.",
+                "<ENT0>Organization</ENT0> welcomes <ENT1>Country</ENT1> as a member.",
+                "<ENT0>Organization</ENT0> admits <ENT1>Country</ENT1> as a member.",
+                "<ENT0>Organization</ENT0> incorporates <ENT1>Country</ENT1> as a member.",
+                "<ENT0>Organization</ENT0> enrolls <ENT1>Country</ENT1> as a member.",
+                "<ENT0>Organization</ENT0> registers <ENT1>Country</ENT1> as a member."
+            ]
+        ]
+    ],
+    "org:country_of_headquarters": [
+        [
+            "organization",
+            "country",
+            [
+                "<ENT0>Apple</ENT0> is headquartered in <ENT1>United States</ENT1>",
+                "<ENT0>Google</ENT0> has its headquarters in <ENT1>United States</ENT1>",
+                "<ENT0>Microsoft</ENT0> is based in <ENT1>United States</ENT1>",
+                "<ENT0>Amazon</ENT0> is headquartered in <ENT1>United States</ENT1>",
+                "<ENT0>Facebook</ENT0> is headquartered in <ENT1>United States</ENT1>",
+                "<ENT0>Tesla</ENT0> is headquartered in <ENT1>United States</ENT1>",
+                "<ENT0>Samsung</ENT0> is headquartered in <ENT1>South Korea</ENT1>",
+                "<ENT0>Sony</ENT0> is headquartered in <ENT1>Japan</ENT1>",
+                "<ENT0>Nike</ENT0> is headquartered in <ENT1>United States</ENT1>",
+                "<ENT0>Adidas</ENT0> is headquartered in <ENT1>Germany</ENT1>"
+            ]
+        ]
+    ],
+    "per:spouse": [
+        [
+            "person",
+            "person",
+            [
+                "<ENT0>John</ENT0> is married to <ENT1>Jane</ENT1>",
+                "<ENT0>Alice</ENT0> is the spouse of <ENT1>Bob</ENT1>",
+                "<ENT0>Charlie</ENT0> is wed to <ENT1>Diana</ENT1>",
+                "<ENT0>Eve</ENT0> is the partner of <ENT1>Frank</ENT1>",
+                "<ENT0>Grace</ENT0> is the wife of <ENT1>Hank</ENT1>",
+                "<ENT0>Ivy</ENT0> is the husband of <ENT1>Jack</ENT1>",
+                "<ENT0>Karen</ENT0> is the spouse of <ENT1>Larry</ENT1>",
+                "<ENT0>Megan</ENT0> is married to <ENT1>Nate</ENT1>",
+                "<ENT0>Oscar</ENT0> is the partner of <ENT1>Peggy</ENT1>",
+                "<ENT0>Quinn</ENT0> is wed to <ENT1>Rachel</ENT1>"
+            ]
+        ]
+    ],
+    "org:stateorprovince_of_headquarters": [
+        [
+            "organization",
+            "state or province",
+            [
+                "<ENT0>Apple</ENT0> is headquartered in <ENT1>California</ENT1>",
+                "<ENT0>Microsoft</ENT0> has its headquarters in <ENT1>Washington</ENT1>",
+                "<ENT0>Google</ENT0> is based in <ENT1>California</ENT1>",
+                "<ENT0>Amazon</ENT0> is headquartered in <ENT1>Washington</ENT1>",
+                "<ENT0>Facebook</ENT0> is based in <ENT1>California</ENT1>",
+                "<ENT0>Tesla</ENT0> has its headquarters in <ENT1>California</ENT1>",
+                "<ENT0>Nike</ENT0> is headquartered in <ENT1>Oregon</ENT1>",
+                "<ENT0>Adidas</ENT0> is based in <ENT1>Germany</ENT1>",
+                "<ENT0>Samsung</ENT0> has its headquarters in <ENT1>South Korea</ENT1>",
+                "<ENT0>Toyota</ENT0> is headquartered in <ENT1>Japan</ENT1>"
+            ]
+        ]
+    ],
+    "org:number_of_employees/members": [
+        [
+            "organization",
+            "number",
+            [
+                "<ENT0>Company</ENT0> has <ENT1>100</ENT1> employees.",
+                "<ENT0>School</ENT0> has <ENT1>500</ENT1> members.",
+                "<ENT0>Non-profit</ENT0> has <ENT1>200</ENT1> members.",
+                "<ENT0>University</ENT0> has <ENT1>1500</ENT1> students.",
+                "<ENT0>Corporation</ENT0> has <ENT1>3000</ENT1> employees.",
+                "<ENT0>Club</ENT0> has <ENT1>1000</ENT1> members.",
+                "<ENT0>Organization</ENT0> has <ENT1>5000</ENT1> members.",
+                "<ENT0>Firm</ENT0> has <ENT1>250</ENT1> employees.",
+                "<ENT0>Association</ENT0> has <ENT1>3000</ENT1> members.",
+                "<ENT0>Institute</ENT0> has <ENT1>1200</ENT1> members."
+            ]
+        ]
+    ],
+    "org:parents": [
+        [
+            "organization",
+            "organization",
+            [
+                "<ENT0>Google</ENT0> is a parent of <ENT1>YouTube</ENT1>",
+                "<ENT0>Microsoft</ENT0> is a parent of <ENT1>LinkedIn</ENT1>",
+                "<ENT0>Apple</ENT0> is a parent of <ENT1>iTunes</ENT1>",
+                "<ENT0>Facebook</ENT0> is a parent of <ENT1>Instagram</ENT1>",
+                "<ENT0>Amazon</ENT0> is a parent of <ENT1>Amazon Web Services</ENT1>",
+                "<ENT0>Alphabet</ENT0> is a parent of <ENT1>Google Fiber</ENT1>",
+                "<ENT0>Tencent</ENT0> is a parent of <ENT1>WeChat</ENT1>",
+                "<ENT0>Samsung</ENT0> is a parent of <ENT1>Samsung Electronics</ENT1>",
+                "<ENT0>Alibaba</ENT0> is a parent of <ENT1>AliExpress</ENT1>",
+                "<ENT0>Visa</ENT0> is a parent of <ENT1>Visa Europe</ENT1>"
+            ]
+        ],
+        [
+            "organization",
+            "country",
+            [
+                "<ENT0>Organization A</ENT0> is a subsidiary of <ENT1>Country B</ENT1>",
+                "<ENT0>Company X</ENT0> is a subsidiary of <ENT1>Y</ENT1>",
+                "<ENT0>Firm Z</ENT0> is a subsidiary of <ENT1>Country W</ENT1>",
+                "<ENT0>Corporation A</ENT0> is a subsidiary of <ENT1>Country B</ENT1>",
+                "<ENT0>Business X</ENT0> is a subsidiary of <ENT1>Y</ENT1>",
+                "<ENT0>Enterprise Z</ENT0> is a subsidiary of <ENT1>Country W</ENT1>",
+                "<ENT0>Institution A</ENT0> is a subsidiary of <ENT1>Country B</ENT1>",
+                "<ENT0>Firm X</ENT0> is a subsidiary of <ENT1>Y</ENT1>",
+                "<ENT0>Company Z</ENT0> is a subsidiary of <ENT1>Country W</ENT1>",
+                "<ENT0>Organization A</ENT0> is a subsidiary of <ENT1>Country B</ENT1>"
+            ]
+        ],
+        [
+            "organization",
+            "state or province",
+            [
+                "<ENT0>Company A</ENT0> is a subsidiary of <ENT1>State B</ENT1>",
+                "<ENT0>X</ENT0> is a branch of <ENT1>Province Y</ENT1>",
+                "<ENT0>Firm Z</ENT0> is a part of <ENT1>Country W</ENT1>",
+                "<ENT0>Institution A</ENT0> is a division of <ENT1>State B</ENT1>",
+                "<ENT0>Corporation C</ENT0> is a subsidiary of <ENT1>Province Y</ENT1>",
+                "<ENT0>Company D</ENT0> is a branch of <ENT1>Country W</ENT1>",
+                "<ENT0>Firm E</ENT0> is a part of <ENT1>State B</ENT1>",
+                "<ENT0>Institution F</ENT0> is a division of <ENT1>Province Y</ENT1>",
+                "<ENT0>Corporation G</ENT0> is a subsidiary of <ENT1>Country W</ENT1>",
+                "<ENT0>Company H</ENT0> is a branch of <ENT1>State B</ENT1>"
+            ]
+        ]
+    ],
+    "org:subsidiaries": [
+        [
+            "organization",
+            "organization",
+            [
+                "<ENT0>Company A</ENT0> owns <ENT1>Company B</ENT1>",
+                "<ENT0>Corporation X</ENT0> controls <ENT1>Company Y</ENT1>",
+                "<ENT0>Group Z</ENT0> manages <ENT1>Company W</ENT1>",
+                "<ENT0>Firm A</ENT0> has <ENT1>Company B</ENT1> as a subsidiary",
+                "<ENT0>Organization C</ENT0> owns <ENT1>Company D</ENT1>",
+                "<ENT0>Corporation E</ENT0> controls <ENT1>Company F</ENT1>",
+                "<ENT0>Group G</ENT0> manages <ENT1>Company H</ENT1>",
+                "<ENT0>Firm I</ENT0> has <ENT1>Company J</ENT1> as a subsidiary",
+                "<ENT0>Organization K</ENT0> owns <ENT1>Company L</ENT1>",
+                "<ENT0>Corporation M</ENT0> controls <ENT1>Company N</ENT1>"
+            ]
+        ],
+        [
+            "organization",
+            "location",
+            [
+                "<ENT0>Company A</ENT0> has <ENT1>Company B</ENT1> as a subsidiary.",
+                "<ENT0>Corporation X</ENT0> owns <ENT1>Corporation Y</ENT1> as a subsidiary.",
+                "<ENT0>Group Z</ENT0> controls <ENT1>Group W</ENT1> as a subsidiary.",
+                "<ENT0>Firm A</ENT0> manages <ENT1>Firm B</ENT1> as a subsidiary.",
+                "<ENT0>Organization C</ENT0> oversees <ENT1>Organization D</ENT1> as a subsidiary.",
+                "<ENT0>Company E</ENT0> operates <ENT1>Company F</ENT1> as a subsidiary.",
+                "<ENT0>Group G</ENT0> directs <ENT1>Group H</ENT1> as a subsidiary.",
+                "<ENT0>Firm I</ENT0> governs <ENT1>Firm J</ENT1> as a subsidiary.",
+                "<ENT0>Organization K</ENT0> supervises <ENT1>Organization L</ENT1> as a subsidiary.",
+                "<ENT0>Company M</ENT0> maintains <ENT1>Company N</ENT1> as a subsidiary."
+            ]
+        ]
+    ],
+    "per:origin": [
+        [
+            "person",
+            "nationality",
+            [
+                "<ENT0>John</ENT0> is <ENT1>American</ENT1>",
+                "<ENT0>Maria</ENT0> is <ENT1>Mexican</ENT1>",
+                "<ENT0>Paul</ENT0> is <ENT1>British</ENT1>",
+                "<ENT0>Sara</ENT0> is <ENT1>Canadian</ENT1>",
+                "<ENT0>David</ENT0> is <ENT1>French</ENT1>",
+                "<ENT0>Lisa</ENT0> is <ENT1>German</ENT1>",
+                "<ENT0>Carlos</ENT0> is <ENT1>Spanish</ENT1>",
+                "<ENT0>Nina</ENT0> is <ENT1>Italian</ENT1>",
+                "<ENT0>Michael</ENT0> is <ENT1>Australian</ENT1>",
+                "<ENT0>Yuki</ENT0> is <ENT1>Japanese</ENT1>"
+            ]
+        ],
+        [
+            "person",
+            "country",
+            [
+                "The person <ENT0>John Doe</ENT0> is from <ENT1>Canada</ENT1>.",
+                "The person <ENT0>Jane Smith</ENT0> is of <ENT1>American</ENT1> origin.",
+                "The person <ENT0>Carlos Rodriguez</ENT0> hails from <ENT1>Mexico</ENT1>.",
+                "The person <ENT0>Maria Garcia</ENT0> is of <ENT1>Spanish</ENT1> descent.",
+                "The person <ENT0>David Lee</ENT0> is from <ENT1>South Korea</ENT1>.",
+                "The person <ENT0>Linda Johnson</ENT0> is of <ENT1>British</ENT1> nationality.",
+                "The person <ENT0>Ahmed Ali</ENT0> is from <ENT1>Egypt</ENT1>.",
+                "The person <ENT0>Sophia Wang</ENT0> is of <ENT1>Chinese</ENT1> ethnicity.",
+                "The person <ENT0>Rajesh Patel</ENT0> is from <ENT1>India</ENT1>.",
+                "The person <ENT0>Olivia Martinez</ENT0> is of <ENT1>Mexican</ENT1> origin."
+            ]
+        ]
+    ],
+    "org:political/religious_affiliation": [
+        [
+            "organization",
+            "religion",
+            [
+                "<ENT0>Organization A</ENT0> is affiliated with <ENT1>Christianity</ENT1>",
+                "<ENT0>Organization B</ENT0> supports <ENT1>Islam</ENT1>",
+                "<ENT0>Organization C</ENT0> is aligned with <ENT1>Buddhism</ENT1>",
+                "<ENT0>Organization D</ENT0> is associated with <ENT1>Hinduism</ENT1>",
+                "<ENT0>Organization E</ENT0> is linked to <ENT1>Judaism</ENT1>",
+                "<ENT0>Organization F</ENT0> is connected to <ENT1>Sikhism</ENT1>",
+                "<ENT0>Organization G</ENT0> is tied to <ENT1>Bah\u00e1'\u00ed Faith</ENT1>",
+                "<ENT0>Organization H</ENT0> is aligned with <ENT1>Shintoism</ENT1>",
+                "<ENT0>Organization I</ENT0> is associated with <ENT1>Confucianism</ENT1>",
+                "<ENT0>Organization J</ENT0> is linked to <ENT1>Taoism</ENT1>"
+            ]
+        ],
+        [
+            "organization",
+            "ideology",
+            [
+                "<ENT0>Greenpeace</ENT0> is affiliated with <ENT1>Environmentalism</ENT1>",
+                "<ENT0>Al-Qaeda</ENT0> is associated with <ENT1>Islamic Extremism</ENT1>",
+                "<ENT0>Amnesty International</ENT0> is aligned with <ENT1>Human Rights</ENT1>",
+                "<ENT0>Catholic Church</ENT0> is linked to <ENT1>Christianity</ENT1>",
+                "<ENT0>Mormon Church</ENT0> is connected to <ENT1>Mormonism</ENT1>",
+                "<ENT0>Nazi Party</ENT0> is associated with <ENT1>Fascism</ENT1>",
+                "<ENT0>Communist Party</ENT0> is aligned with <ENT1>Communism</ENT1>",
+                "<ENT0>Democratic Party</ENT0> is linked to <ENT1>Liberalism</ENT1>",
+                "<ENT0>Republican Party</ENT0> is connected to <ENT1>Conservatism</ENT1>",
+                "<ENT0>Tibetan Buddhist Monks</ENT0> are affiliated with <ENT1>Buddhism</ENT1>"
+            ]
+        ]
+    ],
+    "per:other_family": [
+        [
+            "person",
+            "person",
+            [
+                "<ENT0>John</ENT0> is the <ENT1>brother-in-law</ENT1> of <ENT0>Jane</ENT0>",
+                "<ENT0>Jane</ENT0> is the <ENT1>sister-in-law</ENT1> of <ENT0>John</ENT0>",
+                "<ENT0>John</ENT0> is the <ENT1>grandfather</ENT1> of <ENT0>Emily</ENT0>",
+                "<ENT0>Emily</ENT0> is the <ENT1>granddaughter</ENT1> of <ENT0>John</ENT0>",
+                "<ENT0>John</ENT0> is the <ENT1>cousin</ENT1> of <ENT0>Sarah</ENT0>",
+                "<ENT0>Sarah</ENT0> is the <ENT1>cousin</ENT1> of <ENT0>John</ENT0>",
+                "<ENT0>John</ENT0> is the <ENT1>uncle</ENT1> of <ENT0>Emily</ENT0>",
+                "<ENT0>Emily</ENT0> is the <ENT1>niece</ENT1> of <ENT0>John</ENT0>",
+                "<ENT0>John</ENT0> is the <ENT1>aunt</ENT1> of <ENT0>Emily</ENT0>",
+                "<ENT0>Emily</ENT0> is the <ENT1>nephew</ENT1> of <ENT0>John</ENT0>"
+            ]
+        ]
+    ],
+    "per:stateorprovince_of_birth": [
+        [
+            "person",
+            "state or province",
+            [
+                "<ENT0>John Doe</ENT0> was born in <ENT1>California</ENT1>",
+                "<ENT0>Jane Smith</ENT0> hails from <ENT1>Texas</ENT1>",
+                "<ENT0>Michael Johnson</ENT0> originated in <ENT1>New York</ENT1>",
+                "<ENT0>Emily Davis</ENT0> was born in <ENT1>Florida</ENT1>",
+                "<ENT0>David Wilson</ENT0> comes from <ENT1>Illinois</ENT1>",
+                "<ENT0>Olivia Brown</ENT0> was born in <ENT1>Pennsylvania</ENT1>",
+                "<ENT0>James Miller</ENT0> hails from <ENT1>Ohio</ENT1>",
+                "<ENT0>Sophia Taylor</ENT0> was born in <ENT1>Georgia</ENT1>",
+                "<ENT0>Daniel Anderson</ENT0> comes from <ENT1>North Carolina</ENT1>",
+                "<ENT0>Isabella Thomas</ENT0> was born in <ENT1>Michigan</ENT1>"
+            ]
+        ]
+    ],
+    "org:dissolved": [
+        [
+            "organization",
+            "date",
+            [
+                "<ENT0>Company A</ENT0> dissolved on <ENT1>2020-01-01</ENT1>",
+                "<ENT0>Company B</ENT0> dissolved on <ENT1>2021-02-15</ENT1>",
+                "<ENT0>Company C</ENT0> dissolved on <ENT1>2019-12-31</ENT1>",
+                "<ENT0>Company D</ENT0> dissolved on <ENT1>2022-03-20</ENT1>",
+                "<ENT0>Company E</ENT0> dissolved on <ENT1>2023-04-10</ENT1>",
+                "<ENT0>Company F</ENT0> dissolved on <ENT1>2024-05-05</ENT1>",
+                "<ENT0>Company G</ENT0> dissolved on <ENT1>2025-06-12</ENT1>",
+                "<ENT0>Company H</ENT0> dissolved on <ENT1>2026-07-18</ENT1>",
+                "<ENT0>Company I</ENT0> dissolved on <ENT1>2027-08-25</ENT1>",
+                "<ENT0>Company J</ENT0> dissolved on <ENT1>2028-09-30</ENT1>"
+            ]
+        ]
+    ],
+    "per:date_of_death": [
+        [
+            "person",
+            "date",
+            [
+                "<ENT0>Albert Einstein</ENT0> died on <ENT1>April 18, 1955</ENT1>",
+                "<ENT0>Mahatma Gandhi</ENT0> passed away on <ENT1>January 30, 1948</ENT1>",
+                "<ENT0>Leonardo da Vinci</ENT0> expired on <ENT1>May 2, 1519</ENT1>",
+                "<ENT0>Frida Kahlo</ENT0> died on <ENT1>July 13, 1954</ENT1>",
+                "<ENT0>Vincent van Gogh</ENT0> died on <ENT1>July 29, 1890</ENT1>",
+                "<ENT0>Jimi Hendrix</ENT0> passed away on <ENT1>September 18, 1970</ENT1>",
+                "<ENT0>Abraham Lincoln</ENT0> was assassinated on <ENT1>April 15, 1865</ENT1>",
+                "<ENT0>Nelson Mandela</ENT0> died on <ENT1>December 5, 2013</ENT1>",
+                "<ENT0>Steve Jobs</ENT0> passed away on <ENT1>October 5, 2011</ENT1>",
+                "<ENT0>Muhammad Ali</ENT0> died on <ENT1>June 3, 2016</ENT1>"
+            ]
+        ]
+    ],
+    "org:shareholders": [
+        [
+            "organization",
+            "person",
+            [
+                "<ENT0>Apple</ENT0> shares <ENT1>Walt Disney</ENT1>.",
+                "<ENT0>Microsoft</ENT0> owns <ENT1>LinkedIn</ENT1>.",
+                "<ENT0>Tesla</ENT0> is owned by <ENT1>Elon Musk</ENT1>.",
+                "<ENT0>Facebook</ENT0> is controlled by <ENT1>Mark Zuckerberg</ENT1>.",
+                "<ENT0>Amazon</ENT0> is led by <ENT1>Jeff Bezos</ENT1>.",
+                "<ENT0>Google</ENT0> is owned by <ENT1>Alphabet Inc.</ENT1>.",
+                "<ENT0>Nike</ENT0> is controlled by <ENT1>Phil Knight</ENT1>.",
+                "<ENT0>Coca-Cola</ENT0> is owned by <ENT1>The Coca-Cola Company</ENT1>.",
+                "<ENT0>Ford</ENT0> is led by <ENT1>Jim Farley</ENT1>.",
+                "<ENT0>General Electric</ENT0> is controlled by <ENT1>John Flannery</ENT1>."
+            ]
+        ],
+        [
+            "organization",
+            "organization",
+            [
+                "<ENT0>Apple Inc.</ENT0> shares <ENT1>Alphabet Inc.</ENT1>",
+                "<ENT0>Microsoft Corporation</ENT0> owns <ENT1>LinkedIn Corporation</ENT1>",
+                "<ENT0>Tesla Inc.</ENT0> is owned by <ENT1>Elon Musk</ENT1>",
+                "<ENT0>Amazon.com Inc.</ENT0> is controlled by <ENT1>Jeff Bezos</ENT1>",
+                "<ENT0>Facebook Inc.</ENT0> is owned by <ENT1>Mark Zuckerberg</ENT1>",
+                "<ENT0>Google LLC</ENT0> is a subsidiary of <ENT1>Alphabet Inc.</ENT1>",
+                "<ENT0>NVIDIA Corporation</ENT0> is owned by <ENT1>Jensen Huang</ENT1>",
+                "<ENT0>Netflix Inc.</ENT0> is owned by <ENT1>Reed Hastings</ENT1>",
+                "<ENT0>Uber Technologies Inc.</ENT0> is owned by <ENT1>Travis Kalanick</ENT1>",
+                "<ENT0>Airbnb Inc.</ENT0> is owned by <ENT1>Brian Chesky</ENT1>"
+            ]
+        ]
+    ],
+    "per:alternate_names": [
+        [
+            "person",
+            "person",
+            [
+                "The person <ENT0>John Doe</ENT0> is also known as <ENT1>Johnny Doe</ENT1>",
+                "The person <ENT0>Jane Smith</ENT0> is also known as <ENT1>Janie</ENT1>",
+                "The person <ENT0>Michael Jordan</ENT0> is also known as <ENT1>Air Jordan</ENT1>",
+                "The person <ENT0>Oprah Winfrey</ENT0> is also known as <ENT1>Oprah</ENT1>",
+                "The person <ENT0>Elon Musk</ENT0> is also known as <ENT1>Elon</ENT1>",
+                "The person <ENT0>Beyonc\u00e9 Knowles</ENT0> is also known as <ENT1>Beyonc\u00e9</ENT1>",
+                "The person <ENT0>Steve Jobs</ENT0> is also known as <ENT1>Steve</ENT1>",
+                "The person <ENT0>Barack Obama</ENT0> is also known as <ENT1>Barack</ENT1>",
+                "The person <ENT0>Taylor Swift</ENT0> is also known as <ENT1>Tay</ENT1>",
+                "The person <ENT0>Kanye West</ENT0> is also known as <ENT1>Ye</ENT1>"
+            ]
+        ]
+    ],
+    "per:parents": [
+        [
+            "person",
+            "person",
+            [
+                "<ENT0>John</ENT0> is the son of <ENT1>Mary</ENT1>",
+                "<ENT0>Jane</ENT0> is the daughter of <ENT1>David</ENT1>",
+                "<ENT0>Emily</ENT0> is the stepdaughter of <ENT1>Robert</ENT1>",
+                "<ENT0>Michael</ENT0> is the adopted son of <ENT1>Sara</ENT1>",
+                "<ENT0>Sophia</ENT0> is the stepdaughter of <ENT1>Laura</ENT1>",
+                "<ENT0>Daniel</ENT0> is the son of <ENT1>Emma</ENT1>",
+                "<ENT0>Olivia</ENT0> is the daughter of <ENT1>James</ENT1>",
+                "<ENT0>William</ENT0> is the adopted son of <ENT1>Carol</ENT1>",
+                "<ENT0>Charlotte</ENT0> is the stepdaughter of <ENT1>Tom</ENT1>",
+                "<ENT0>Matthew</ENT0> is the son of <ENT1>Grace</ENT1>"
+            ]
+        ]
+    ],
+    "per:schools_attended": [
+        [
+            "person",
+            "organization",
+            [
+                "<ENT0>John Doe</ENT0> attended <ENT1>Harvard University</ENT1>",
+                "<ENT0>Jane Smith</ENT0> attended <ENT1>Stanford University</ENT1>",
+                "<ENT0>Alice Johnson</ENT0> attended <ENT1>MIT</ENT1>",
+                "<ENT0>Bob Brown</ENT0> attended <ENT1>Yale University</ENT1>",
+                "<ENT0>Charlie Green</ENT0> attended <ENT1>Princeton University</ENT1>",
+                "<ENT0>Diana White</ENT0> attended <ENT1>University of California, Berkeley</ENT1>",
+                "<ENT0>Eve Black</ENT0> attended <ENT1>University of Chicago</ENT1>",
+                "<ENT0>Frank Blue</ENT0> attended <ENT1>University of Pennsylvania</ENT1>",
+                "<ENT0>Grace Gray</ENT0> attended <ENT1>Cornell University</ENT1>",
+                "<ENT0>Hannah Yellow</ENT0> attended <ENT1>Duke University</ENT1>"
+            ]
+        ]
+    ],
+    "per:cause_of_death": [
+        [
+            "person",
+            "cause of death",
+            [
+                "<ENT0>John Doe</ENT0> died from <ENT1>heart failure</ENT1>",
+                "<ENT0>Jane Smith</ENT0> passed away due to <ENT1>cancer</ENT1>",
+                "<ENT0>Michael Brown</ENT0> succumbed to <ENT1>stroke</ENT1>",
+                "<ENT0>Emily Davis</ENT0> expired from <ENT1>pneumonia</ENT1>",
+                "<ENT0>Robert Johnson</ENT0> was killed by <ENT1>gunshot</ENT1>",
+                "<ENT0>Laura Wilson</ENT0> died of <ENT1>natural causes</ENT1>",
+                "<ENT0>David Lee</ENT0> passed away from <ENT1>old age</ENT1>",
+                "<ENT0>Sara Martinez</ENT0> expired due to <ENT1>accident</ENT1>",
+                "<ENT0>James Taylor</ENT0> was murdered by <ENT1>poisoning</ENT1>",
+                "<ENT0>Olivia Anderson</ENT0> died from <ENT1>suicide</ENT1>"
+            ]
+        ]
+    ],
+    "per:city_of_death": [
+        [
+            "person",
+            "city",
+            [
+                "<ENT0>John Doe</ENT0> died in <ENT1>Paris</ENT1>",
+                "<ENT0>Jane Smith</ENT0> passed away in <ENT1>New York</ENT1>",
+                "<ENT0>Albert Einstein</ENT0> expired in <ENT1>Princeton</ENT1>",
+                "<ENT0>Frida Kahlo</ENT0> died in <ENT1>Mexico City</ENT1>",
+                "<ENT0>Steve Jobs</ENT0> breathed his last in <ENT1>Palo Alto</ENT1>",
+                "<ENT0>Mozart</ENT0> died in <ENT1>Vienna</ENT1>",
+                "<ENT0>Che Guevara</ENT0> died in <ENT1>La Higuera</ENT1>",
+                "<ENT0>Leonardo da Vinci</ENT0> died in <ENT1>Amboise</ENT1>",
+                "<ENT0>Mahatma Gandhi</ENT0> died in <ENT1>Delhi</ENT1>",
+                "<ENT0>Vincent van Gogh</ENT0> died in <ENT1>Auvers-sur-Oise</ENT1>"
+            ]
+        ]
+    ],
+    "per:stateorprovince_of_death": [
+        [
+            "person",
+            "state or province",
+            [
+                "<ENT0>John Doe</ENT0> died in <ENT1>California</ENT1>",
+                "<ENT0>Jane Smith</ENT0> passed away in <ENT1>Texas</ENT1>",
+                "<ENT0>Michael Brown</ENT0> expired in <ENT1>New York</ENT1>",
+                "<ENT0>Emily Davis</ENT0> breathed her last in <ENT1>Florida</ENT1>",
+                "<ENT0>Robert Johnson</ENT0> died in <ENT1>Illinois</ENT1>",
+                "<ENT0>Patricia Wilson</ENT0> passed away in <ENT1>Pennsylvania</ENT1>",
+                "<ENT0>David Lee</ENT0> expired in <ENT1>Ohio</ENT1>",
+                "<ENT0>Laura Martinez</ENT0> died in <ENT1>Georgia</ENT1>",
+                "<ENT0>James Taylor</ENT0> passed away in <ENT1>North Carolina</ENT1>",
+                "<ENT0>Sara Anderson</ENT0> expired in <ENT1>Virginia</ENT1>"
+            ]
+        ]
+    ],
+    "org:founded": [
+        [
+            "organization",
+            "date",
+            [
+                "<ENT0>Microsoft</ENT0> was founded on <ENT1>1975-04-04</ENT1>",
+                "<ENT0>Apple</ENT0> was established on <ENT1>1976-04-01</ENT1>",
+                "<ENT0>Google</ENT0> was incorporated on <ENT1>1998-09-04</ENT1>",
+                "<ENT0>Facebook</ENT0> was launched on <ENT1>2004-02-04</ENT1>",
+                "<ENT0>Amazon</ENT0> was founded on <ENT1>1994-07-05</ENT1>",
+                "<ENT0>Tesla</ENT0> was established on <ENT1>2003-07-01</ENT1>",
+                "<ENT0>SpaceX</ENT0> was founded on <ENT1>2002-03-17</ENT1>",
+                "<ENT0>Uber</ENT0> was launched on <ENT1>2009-06-04</ENT1>",
+                "<ENT0>Airbnb</ENT0> was founded on <ENT1>2008-08-01</ENT1>",
+                "<ENT0>Spotify</ENT0> was launched on <ENT1>2008-10-01</ENT1>"
+            ]
+        ]
+    ],
+    "per:country_of_birth": [
+        [
+            "person",
+            "country",
+            [
+                "<ENT0>John Doe</ENT0> was born in <ENT1>Canada</ENT1>",
+                "<ENT0>Jane Smith</ENT0> hails from <ENT1>Australia</ENT1>",
+                "<ENT0>Michael Brown</ENT0> originated in <ENT1>Germany</ENT1>",
+                "<ENT0>Emily Davis</ENT0> was born in <ENT1>France</ENT1>",
+                "<ENT0>David Wilson</ENT0> comes from <ENT1>Japan</ENT1>",
+                "<ENT0>Olivia Johnson</ENT0> was born in <ENT1>Brazil</ENT1>",
+                "<ENT0>James Lee</ENT0> hails from <ENT1>China</ENT1>",
+                "<ENT0>Sophia Martinez</ENT0> was born in <ENT1>India</ENT1>",
+                "<ENT0>Daniel Taylor</ENT0> comes from <ENT1>Italy</ENT1>",
+                "<ENT0>Emma Anderson</ENT0> was born in <ENT1>South Africa</ENT1>"
+            ]
+        ]
+    ],
+    "per:date_of_birth": [
+        [
+            "person",
+            "date",
+            [
+                "<ENT0>John Doe</ENT0> was born on <ENT1>1985-03-15</ENT1>",
+                "<ENT0>Jane Smith</ENT0> was born on <ENT1>1990-07-22</ENT1>",
+                "<ENT0>Alice Johnson</ENT0> was born on <ENT1>1978-11-01</ENT1>",
+                "<ENT0>Bob Brown</ENT0> was born on <ENT1>1982-05-30</ENT1>",
+                "<ENT0>Charlie Green</ENT0> was born on <ENT1>1992-08-14</ENT1>",
+                "<ENT0>Diana White</ENT0> was born on <ENT1>1987-02-28</ENT1>",
+                "<ENT0>Eve Black</ENT0> was born on <ENT1>1995-12-05</ENT1>",
+                "<ENT0>Frank Yellow</ENT0> was born on <ENT1>1989-06-18</ENT1>",
+                "<ENT0>Grace Blue</ENT0> was born on <ENT1>1979-04-12</ENT1>",
+                "<ENT0>Hank Red</ENT0> was born on <ENT1>1991-09-25</ENT1>"
+            ]
+        ]
+    ],
+    "per:city_of_birth": [
+        [
+            "person",
+            "city",
+            [
+                "<ENT0>Albert Einstein</ENT0> was born in <ENT1>Ulm</ENT1>",
+                "<ENT0>Steve Jobs</ENT0> was born in <ENT1>San Francisco</ENT1>",
+                "<ENT0>Oprah Winfrey</ENT0> was born in <ENT1>Kosciusko</ENT1>",
+                "<ENT0>Elon Musk</ENT0> was born in <ENT1>Pretoria</ENT1>",
+                "<ENT0>J.K. Rowling</ENT0> was born in <ENT1>Yate</ENT1>",
+                "<ENT0>Bill Gates</ENT0> was born in <ENT1>Seattle</ENT1>",
+                "<ENT0>Mark Zuckerberg</ENT0> was born in <ENT1>White Plains</ENT1>",
+                "<ENT0>Barack Obama</ENT0> was born in <ENT1>Honolulu</ENT1>",
+                "<ENT0>Taylor Swift</ENT0> was born in <ENT1>Reading</ENT1>",
+                "<ENT0>Beyonc\u00e9</ENT0> was born in <ENT1>Houston</ENT1>"
+            ]
+        ]
+    ],
+    "per:charges": [
+        [
+            "person",
+            "criminal charge",
+            [
+                "<ENT0>John Doe</ENT0> was charged with <ENT1>murder</ENT1>",
+                "<ENT0>Jane Smith</ENT0> is facing charges of <ENT1>theft</ENT1>",
+                "<ENT0>Michael Brown</ENT0> was convicted of <ENT1>assault</ENT1>",
+                "<ENT0>Emily Davis</ENT0> is accused of <ENT1>fraud</ENT1>",
+                "<ENT0>Robert Johnson</ENT0> was arrested for <ENT1>drug possession</ENT1>",
+                "<ENT0>Laura Wilson</ENT0> is charged with <ENT1>embezzlement</ENT1>",
+                "<ENT0>David Lee</ENT0> was indicted on charges of <ENT1>rape</ENT1>",
+                "<ENT0>Sara Martinez</ENT0> is facing <ENT1>manslaughter</ENT1> charges",
+                "<ENT0>James White</ENT0> was charged with <ENT1>arson</ENT1>",
+                "<ENT0>Olivia Black</ENT0> is accused of <ENT1>kidnapping</ENT1>"
+            ]
+        ]
+    ],
+    "per:country_of_death": [
+        [
+            "person",
+            "country",
+            [
+                "<ENT0>Albert Einstein</ENT0> died in <ENT1>Switzerland</ENT1>",
+                "<ENT0>Frida Kahlo</ENT0> died in <ENT1>Mexico</ENT1>",
+                "<ENT0>Mahatma Gandhi</ENT0> died in <ENT1>India</ENT1>",
+                "<ENT0>Leonardo da Vinci</ENT0> died in <ENT1>France</ENT1>",
+                "<ENT0>Vincent van Gogh</ENT0> died in <ENT1>France</ENT1>",
+                "<ENT0>Nelson Mandela</ENT0> died in <ENT1>South Africa</ENT1>",
+                "<ENT0>Steve Jobs</ENT0> died in <ENT1>California</ENT1>",
+                "<ENT0>Muhammad Ali</ENT0> died in <ENT1>Kentucky</ENT1>",
+                "<ENT0>Ada Lovelace</ENT0> died in <ENT1>England</ENT1>",
+                "<ENT0>Jimi Hendrix</ENT0> died in <ENT1>London</ENT1>"
+            ]
+        ]
+    ]
+}

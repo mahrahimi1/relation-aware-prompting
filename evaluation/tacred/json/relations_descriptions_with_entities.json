@@ -1,0 +1,83 @@
+{
+    "org:alternate_names": "<ENT1> is any name used to refer to <ENT0> (an organization) that is distinct from the 'official' name. Alternate names may include former names, aliases, alternate spellings, acronyms, abbreviations, translations or transliterations of names, and any official designators such as stock ticker code or airline call sign.",
+		
+    "org:city_of_headquarters": "<ENT1> is a location of the headquarters of <ENT0> (an organization) at the city, town, or village level.",
+		
+    "org:country_of_headquarters": "<ENT1> is a country in which the headquarters of <ENT0> (an organization) are located.",
+		
+    "org:dissolved": "<ENT1> is the date on which <ENT0> (an organization) was dissolved. When companies merge to form a new entity, the original companies should be considered as dissolved.",
+		
+    "org:founded": "<ENT1> is the date on which <ENT0> (an organization) was founded.",
+		
+    "org:founded_by": "<ENT1> is the person, organization, or geopolitical entity that founded <ENT0> (an organization).",
+		
+    "org:member_of": "<ENT1> is an organization or geopolitical entity of which <ENT0> (an organization) is a member itself.",
+		
+    "org:members": "<ENT1> is an organization or geopolitical entity that is a member of <ENT0> (an organization).",
+		
+    "org:number_of_employees/members": "<ENT1> is the total number of people who are employed by or have membership in <ENT0> (an organization).",
+		
+    "org:parents": "<ENT1> is an organization or geopolitical entity of which <ENT0> (an organization) is a subsidiary. <ENT0> is subsumed under the parent organization, rather than being a distinct entity.",
+		
+    "org:political/religious_affiliation": "<ENT1> is an ideological group with which <ENT0> (an organization) is associated.",
+		
+    "org:shareholders": "<ENT1> is any organization, person, or geopolitical entity that holds shares (majority or not) of <ENT0> (an organization). Former shareholders are acceptable responses.",
+		
+    "org:stateorprovince_of_headquarters": "<ENT1> is a location of the headquarters of <ENT0> (an organization) at the state or province level.",
+		
+    "org:subsidiaries": "<ENT1> is an organization that is subsidiary of <ENT0> (an organization). Subsidiaries are subsumed under <ENT0>, rather than being distinct entities.",
+		
+    "org:top_members/employees": "<ENT1> is the person in a high-level, leading position at <ENT0> (an organization). Although the definition of 'leading position' is relatively broad, all top member or employee positions should imply a level of decision-making authority over the entire <ENT0>.",
+		
+    "org:website": "<ENT1> is an official top level URL for the website of <ENT0> (an organization).",
+		
+    "per:age": "<ENT1> is a reported age of <ENT0> (a person).",
+		
+    "per:alternate_names": "<ENT1> is a name used to refer to <ENT0> (a person) that is distinct from the 'official' name. Alternate names may include aliases, stage names, alternate transliterations, abbreviations, alternate spellings, nicknames, or birth names.",
+		
+    "per:cause_of_death": "<ENT1> is the explicit cause of death for <ENT0> (a person).",
+		
+    "per:charges": "<ENT1> is the charge or crime (alleged or convicted) of <ENT0> (a person).",
+		
+    "per:children": "<ENT1> is the child of <ENT0> (a person), including adopted and step-children.",
+		
+    "per:cities_of_residence": "<ENT1> is a geopolitical entity at the level of city, town, or village in which <ENT0> (a person) has lived.",
+		
+    "per:city_of_birth": "<ENT1> is the geopolitical entity at the municipality level (city, town, or village) in which <ENT0> (a person) was born.",
+		
+    "per:city_of_death": "<ENT1> is the geopolitical entity at the level of city, town, village in which <ENT0> (a person) died.",
+		
+    "per:countries_of_residence": "<ENT1> is a country in which <ENT0> (a person) has lived.",
+		
+    "per:country_of_birth": "<ENT1> is the country in which <ENT0> (a person) was born.",
+		
+    "per:country_of_death": "<ENT1> is the country in which <ENT0> (a person) died.",
+		
+    "per:date_of_birth": "<ENT1> is the date on which <ENT0> (a person) was born.",
+		
+    "per:date_of_death": "<ENT1> is the date of the death of <ENT0> (a person).",
+		
+    "per:employee_of": "<ENT1> is the organization or geopolitical entity (government) of which <ENT0> (a person) has been an employee or member.",
+		
+    "per:origin": "<ENT1> is the nationality and/or ethnicity of <ENT0> (a person).",
+		
+    "per:other_family": "<ENT1> is a family member of <ENT0> (a person) other than siblings, parents, children, and spouse (or former spouse). Correct fillers for <ENT1> include brothers-in-law, sisters-in-law, grandparents, grandchildren, cousins, aunts, uncles, etc.",
+		
+    "per:parents": "<ENT1> is the parent of <ENT0> (a person). In addition to biological parents, stepparents and adoptive parents are also acceptable answers.",
+		
+    "per:religion": "<ENT1> is the religion to which <ENT0> (a person) has belonged.",
+		
+    "per:schools_attended": "<ENT1> is any school (college, high school, university, etc.) that <ENT0> (a person) has attended.",
+		
+    "per:siblings": "<ENT1> is the brother or sister of <ENT0> (a person).",
+		
+    "per:spouse": "<ENT1> is the spouse of <ENT0> (a person).",
+		
+    "per:stateorprovince_of_birth": "<ENT1> is the geopolitical entity at state or province level in which <ENT0> (a person) was born.",
+		
+    "per:stateorprovince_of_death": "<ENT1> is the geopolitical entity at state or province level in which <ENT0> (a person) died.",
+		
+    "per:stateorprovinces_of_residence": "<ENT1> is a geopolitical entity at the state or province level in which <ENT0> (a person) has lived.",
+		
+    "per:title": "<ENT1> is an official or unofficial name of the employment or membership position that has been held by <ENT0> (a person)."
+}

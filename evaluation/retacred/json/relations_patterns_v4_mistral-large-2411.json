@@ -1,0 +1,816 @@
+{
+    "org:founded_by": [
+        [
+            "organization",
+            "person",
+            [
+                "<ENT0>Apple</ENT0> was established by <ENT1>Steve Jobs</ENT1>",
+                "<ENT0>Microsoft</ENT0> was created by <ENT1>Bill Gates</ENT1>",
+                "<ENT0>Facebook</ENT0> was launched by <ENT1>Mark Zuckerberg</ENT1>",
+                "<ENT0>Amazon</ENT0> was initiated by <ENT1>Jeff Bezos</ENT1>",
+                "<ENT0>Tesla</ENT0> was set up by <ENT1>Elon Musk</ENT1>",
+                "<ENT0>SpaceX</ENT0> was formed by <ENT1>Elon Musk</ENT1>",
+                "<ENT0>Google</ENT0> was co-founded by <ENT1>Larry Page</ENT1>",
+                "<ENT0>Netflix</ENT0> was started by <ENT1>Reed Hastings</ENT1>",
+                "<ENT0>Airbnb</ENT0> was founded by <ENT1>Brian Chesky</ENT1>",
+                "<ENT0>Uber</ENT0> was originated by <ENT1>Travis Kalanick</ENT1>"
+            ]
+        ]
+    ],
+    "per:identity": [
+        [
+            "person",
+            "person",
+            [
+                "<ENT0>John</ENT0> refers to himself as <ENT1>he</ENT1>",
+                "<ENT0>Mary</ENT0> identifies as <ENT1>her</ENT1>",
+                "<ENT0>Alex</ENT0> considers <ENT1>themselves</ENT1> a leader",
+                "<ENT0>Emma</ENT0> sees <ENT1>herself</ENT1> as a writer",
+                "<ENT0>Chris</ENT0> thinks of <ENT1>themselves</ENT1> as an artist",
+                "<ENT0>Lisa</ENT0> recognizes <ENT1>herself</ENT1> in the mirror",
+                "<ENT0>David</ENT0> introduces <ENT1>himself</ENT1> as a doctor",
+                "<ENT0>Sarah</ENT0> describes <ENT1>herself</ENT1> as a teacher",
+                "<ENT0>Mike</ENT0> views <ENT1>himself</ENT1> as a musician",
+                "<ENT0>Jane</ENT0> perceives <ENT1>herself</ENT1> as a scientist"
+            ]
+        ]
+    ],
+    "org:alternate_names": [
+        [
+            "organization",
+            "organization",
+            [
+                "<ENT0>International Business Machines</ENT0> is also known as <ENT1>IBM</ENT1>",
+                "<ENT0>The National Aeronautics and Space Administration</ENT0> goes by the acronym <ENT1>NASA</ENT1>",
+                "<ENT0>The Walt Disney Company</ENT0> has the stock ticker <ENT1>DIS</ENT1>",
+                "<ENT0>British Petroleum</ENT0> was formerly called <ENT1>BP</ENT1>",
+                "<ENT0>The United Nations Educational, Scientific and Cultural Organization</ENT0> is often referred to as <ENT1>UNESCO</ENT1>",
+                "<ENT0>The International Committee of the Red Cross</ENT0> uses the abbreviation <ENT1>ICRC</ENT1>",
+                "<ENT0>The World Health Organization</ENT0> is translated as <ENT1>Organisation mondiale de la sant\u00e9</ENT1> in French",
+                "<ENT0>The Royal Dutch Shell</ENT0> is commonly known as <ENT1>Shell</ENT1>",
+                "<ENT0>The International Monetary Fund</ENT0> has the designator <ENT1>IMF</ENT1>",
+                "<ENT0>The European Organization for Nuclear Research</ENT0> is also called <ENT1>CERN</ENT1>"
+            ]
+        ]
+    ],
+    "per:children": [
+        [
+            "person",
+            "person",
+            [
+                "<ENT0>John</ENT0> has a son named <ENT1>James</ENT1>",
+                "<ENT0>Maria</ENT0> is the mother of <ENT1>Sophia</ENT1>",
+                "<ENT0>David</ENT0> adopted <ENT1>Emma</ENT1> as his daughter",
+                "<ENT0>Lisa</ENT0> is the stepmother of <ENT1>Tom</ENT1>",
+                "<ENT0>Paul</ENT0> has a daughter named <ENT1>Anna</ENT1>",
+                "<ENT0>Sarah</ENT0> is the parent of <ENT1>Ben</ENT1>",
+                "<ENT0>Michael</ENT0> has a stepson named <ENT1>Jack</ENT1>",
+                "<ENT0>Emily</ENT0> is the adoptive mother of <ENT1>Olivia</ENT1>",
+                "<ENT0>Robert</ENT0> has a child named <ENT1>Charlie</ENT1>",
+                "<ENT0>Laura</ENT0> is the mother of <ENT1>Lucas</ENT1>"
+            ]
+        ]
+    ],
+    "per:origin": [
+        [
+            "person",
+            "nationality",
+            [
+                "<ENT0>Barack Obama</ENT0> was born in the country of <ENT1>American</ENT1>.",
+                "<ENT0>Cristiano Ronaldo</ENT0> holds the nationality of <ENT1>Portuguese</ENT1>.",
+                "<ENT0>Angela Merkel</ENT0> is of <ENT1>German</ENT1> descent.",
+                "<ENT0>Amitabh Bachchan</ENT0> has roots in <ENT1>Indian</ENT1> culture.",
+                "<ENT0>Nelson Mandela</ENT0> was a citizen of <ENT1>South African</ENT1>.",
+                "<ENT0>Marie Curie</ENT0> was originally from <ENT1>Polish</ENT1>.",
+                "<ENT0>Lionel Messi</ENT0> is a native of <ENT1>Argentine</ENT1>.",
+                "<ENT0>Meryl Streep</ENT0> belongs to the <ENT1>American</ENT1> nationality.",
+                "<ENT0>Usain Bolt</ENT0> is ethnically <ENT1>Jamaican</ENT1>.",
+                "<ENT0>Adele</ENT0> is a national of <ENT1>British</ENT1>."
+            ]
+        ],
+        [
+            "person",
+            "country",
+            [
+                "<ENT0>Barack Obama</ENT0> was born in <ENT1>the United States</ENT1>",
+                "<ENT0>Cristiano Ronaldo</ENT0> hails from <ENT1>Portugal</ENT1>",
+                "<ENT0>Angela Merkel</ENT0> is a native of <ENT1>Germany</ENT1>",
+                "<ENT0>Amitabh Bachchan</ENT0> has roots in <ENT1>India</ENT1>",
+                "<ENT0>Lionel Messi</ENT0> originates from <ENT1>Argentina</ENT1>",
+                "<ENT0>Emmanuel Macron</ENT0> is a citizen of <ENT1>France</ENT1>",
+                "<ENT0>Serena Williams</ENT0> was raised in <ENT1>the United States</ENT1>",
+                "<ENT0>Jackie Chan</ENT0> comes from <ENT1>China</ENT1>",
+                "<ENT0>Nelson Mandela</ENT0> was a native of <ENT1>South Africa</ENT1>",
+                "<ENT0>Shakira</ENT0> is from <ENT1>Colombia</ENT1>"
+            ]
+        ]
+    ],
+    "per:countries_of_residence": [
+        [
+            "person",
+            "country",
+            [
+                "<ENT0>Albert Einstein</ENT0> resided in <ENT1>Switzerland</ENT1>",
+                "<ENT0>Marie Curie</ENT0> lived in <ENT1>France</ENT1>",
+                "<ENT0>Nelson Mandela</ENT0> was a resident of <ENT1>South Africa</ENT1>",
+                "<ENT0>Leonardo da Vinci</ENT0> had a home in <ENT1>Italy</ENT1>",
+                "<ENT0>Pablo Picasso</ENT0> spent time in <ENT1>Spain</ENT1>",
+                "<ENT0>Mahatma Gandhi</ENT0> stayed in <ENT1>India</ENT1>",
+                "<ENT0>Wolfgang Amadeus Mozart</ENT0> was located in <ENT1>Austria</ENT1>",
+                "<ENT0>Frida Kahlo</ENT0> inhabited <ENT1>Mexico</ENT1>",
+                "<ENT0>William Shakespeare</ENT0> was based in <ENT1>England</ENT1>",
+                "<ENT0>Confucius</ENT0> dwelled in <ENT1>China</ENT1>"
+            ]
+        ],
+        [
+            "person",
+            "nationality",
+            [
+                "<ENT0>Albert Einstein</ENT0> resided in <ENT1>Switzerland</ENT1>",
+                "<ENT0>Marie Curie</ENT0> lived in <ENT1>France</ENT1>",
+                "<ENT0>Nelson Mandela</ENT0> was a resident of <ENT1>South Africa</ENT1>",
+                "<ENT0>Pablo Picasso</ENT0> had a home in <ENT1>Spain</ENT1>",
+                "<ENT0>Mahatma Gandhi</ENT0> stayed in <ENT1>India</ENT1>",
+                "<ENT0>Leonardo da Vinci</ENT0> inhabited <ENT1>Italy</ENT1>",
+                "<ENT0>Frida Kahlo</ENT0> was based in <ENT1>Mexico</ENT1>",
+                "<ENT0>Wolfgang Amadeus Mozart</ENT0> was located in <ENT1>Austria</ENT1>",
+                "<ENT0>Vincent van Gogh</ENT0> settled in <ENT1>Netherlands</ENT1>",
+                "<ENT0>Confucius</ENT0> was situated in <ENT1>China</ENT1>"
+            ]
+        ]
+    ],
+    "per:employee_of": [
+        [
+            "person",
+            "organization",
+            [
+                "<ENT0>John Doe</ENT0> works for <ENT1>Tech Innovations Inc.</ENT1>",
+                "<ENT0>Jane Smith</ENT0> is employed by <ENT1>Green Energy Solutions</ENT1>",
+                "<ENT0>Alice Johnson</ENT0> serves in <ENT1>the United States Government</ENT1>",
+                "<ENT0>Bob Brown</ENT0> is a member of <ENT1>the European Parliament</ENT1>",
+                "<ENT0>Charlie Davis</ENT0> is on the payroll of <ENT1>Global Healthcare Ltd.</ENT1>",
+                "<ENT0>Emma Wilson</ENT0> is affiliated with <ENT1>the United Nations</ENT1>",
+                "<ENT0>Frank Miller</ENT0> is part of <ENT1>the Australian Government</ENT1>",
+                "<ENT0>Grace Lee</ENT0> is a staff member of <ENT1>EcoTech Corporation</ENT1>",
+                "<ENT0>Harry White</ENT0> is engaged by <ENT1>the Canadian Government</ENT1>",
+                "<ENT0>Ivy Black</ENT0> is a representative of <ENT1>the World Health Organization</ENT1>"
+            ]
+        ],
+        [
+            "person",
+            "country",
+            [
+                "<ENT0>John Doe</ENT0> works for <ENT1>the United States</ENT1>",
+                "<ENT0>Jane Smith</ENT0> is employed by <ENT1>Canada</ENT1>",
+                "<ENT0>Alice Johnson</ENT0> serves <ENT1>the United Kingdom</ENT1>",
+                "<ENT0>Bob Brown</ENT0> is a staff member of <ENT1>Australia</ENT1>",
+                "<ENT0>Charlie Davis</ENT0> is on the payroll of <ENT1>Germany</ENT1>",
+                "<ENT0>Emma Wilson</ENT0> is a civil servant of <ENT1>France</ENT1>",
+                "<ENT0>Frank Miller</ENT0> is a government worker for <ENT1>Japan</ENT1>",
+                "<ENT0>Grace Lee</ENT0> is a public servant of <ENT1>South Korea</ENT1>",
+                "<ENT0>Harry Clark</ENT0> is a state employee of <ENT1>Italy</ENT1>",
+                "<ENT0>Ivy Turner</ENT0> is a federal employee of <ENT1>Brazil</ENT1>"
+            ]
+        ]
+    ],
+    "per:title": [
+        [
+            "person",
+            "title",
+            [
+                "<ENT0>John Doe</ENT0> holds the position of <ENT1>CEO</ENT1>",
+                "<ENT0>Jane Smith</ENT0> is the <ENT1>President</ENT1>",
+                "<ENT0>Alice Johnson</ENT0> serves as <ENT1>Chairperson</ENT1>",
+                "<ENT0>Bob Brown</ENT0> has the title of <ENT1>Director</ENT1>",
+                "<ENT0>Emily Davis</ENT0> is appointed as <ENT1>Manager</ENT1>",
+                "<ENT0>Michael Wilson</ENT0> occupies the role of <ENT1>Vice President</ENT1>",
+                "<ENT0>Sarah Lee</ENT0> is designated as <ENT1>Treasurer</ENT1>",
+                "<ENT0>David Clark</ENT0> is known as the <ENT1>Secretary</ENT1>",
+                "<ENT0>Linda White</ENT0> is elected as <ENT1>Board Member</ENT1>",
+                "<ENT0>James Green</ENT0> is assigned the position of <ENT1>Chief Financial Officer</ENT1>"
+            ]
+        ]
+    ],
+    "org:city_of_branch": [
+        [
+            "organization",
+            "city",
+            [
+                "<ENT0>Microsoft</ENT0> has a branch in <ENT1>Seattle</ENT1>",
+                "<ENT0>Google</ENT0> operates an office in <ENT1>Mountain View</ENT1>",
+                "<ENT0>Amazon</ENT0> is headquartered in <ENT1>Seattle</ENT1>",
+                "<ENT0>Apple</ENT0> maintains a branch in <ENT1>Cupertino</ENT1>",
+                "<ENT0>Facebook</ENT0> has an office in <ENT1>Menlo Park</ENT1>",
+                "<ENT0>Tesla</ENT0> runs a branch in <ENT1>Palo Alto</ENT1>",
+                "<ENT0>IBM</ENT0> is located in <ENT1>Armonk</ENT1>",
+                "<ENT0>Coca-Cola</ENT0> has a branch in <ENT1>Atlanta</ENT1>",
+                "<ENT0>Nike</ENT0> operates a branch in <ENT1>Beaverton</ENT1>",
+                "<ENT0>Walmart</ENT0> maintains a branch in <ENT1>Bentonville</ENT1>"
+            ]
+        ]
+    ],
+    "per:religion": [
+        [
+            "person",
+            "religion",
+            [
+                "<ENT0>Mother Teresa</ENT0> practiced <ENT1>Catholicism</ENT1>",
+                "<ENT0>Dalai Lama</ENT0> follows <ENT1>Buddhism</ENT1>",
+                "<ENT0>Muhammad Ali</ENT0> converted to <ENT1>Islam</ENT1>",
+                "<ENT0>Gandhi</ENT0> adhered to <ENT1>Hinduism</ENT1>",
+                "<ENT0>Martin Luther King Jr.</ENT0> was a member of <ENT1>Christianity</ENT1>",
+                "<ENT0>Billy Graham</ENT0> preached <ENT1>Evangelicalism</ENT1>",
+                "<ENT0>Pope Francis</ENT0> leads <ENT1>Catholicism</ENT1>",
+                "<ENT0>Desmond Tutu</ENT0> belonged to <ENT1>Anglicanism</ENT1>",
+                "<ENT0>Thich Nhat Hanh</ENT0> taught <ENT1>Buddhism</ENT1>",
+                "<ENT0>Rabbi Jonathan Sacks</ENT0> was devoted to <ENT1>Judaism</ENT1>"
+            ]
+        ]
+    ],
+    "per:age": [
+        [
+            "person",
+            "number",
+            [
+                "<ENT0>John</ENT0> is <ENT1>30</ENT1> years old.",
+                "<ENT0>Alice</ENT0> has reached the age of <ENT1>25</ENT1>.",
+                "<ENT0>Michael</ENT0> will be <ENT1>45</ENT1> this year.",
+                "<ENT0>Emma</ENT0> just turned <ENT1>18</ENT1>.",
+                "<ENT0>David</ENT0> is in his <ENT1>50s</ENT1>.",
+                "<ENT0>Sophia</ENT0> celebrates her <ENT1>21st</ENT1> birthday.",
+                "<ENT0>James</ENT0> has an age of <ENT1>35</ENT1>.",
+                "<ENT0>Olivia</ENT0> is <ENT1>28</ENT1> years of age.",
+                "<ENT0>Daniel</ENT0> is aged <ENT1>40</ENT1>.",
+                "<ENT0>Ava</ENT0> is <ENT1>16</ENT1> years young."
+            ]
+        ],
+        [
+            "person",
+            "duration",
+            [
+                "<ENT0>John</ENT0> is <ENT1>30 years old</ENT1>",
+                "<ENT0>Alice</ENT0> has reached <ENT1>25 years</ENT1>",
+                "<ENT0>Michael</ENT0> will be <ENT1>40 years</ENT1> next month",
+                "<ENT0>Emma</ENT0> just turned <ENT1>21 years</ENT1>",
+                "<ENT0>David</ENT0> is in his <ENT1>50s</ENT1>",
+                "<ENT0>Sophia</ENT0> has lived for <ENT1>35 years</ENT1>",
+                "<ENT0>James</ENT0> is <ENT1>60 years</ENT1> of age",
+                "<ENT0>Olivia</ENT0> is <ENT1>28 years</ENT1> young",
+                "<ENT0>Daniel</ENT0> has an age of <ENT1>45 years</ENT1>",
+                "<ENT0>Mia</ENT0> is <ENT1>18 years</ENT1> old"
+            ]
+        ]
+    ],
+    "per:date_of_death": [
+        [
+            "person",
+            "date",
+            [
+                "<ENT0>Albert Einstein</ENT0> passed away on <ENT1>April 18, 1955</ENT1>",
+                "<ENT0>Marilyn Monroe</ENT0> died on <ENT1>August 5, 1962</ENT1>",
+                "<ENT0>Elvis Presley</ENT0> left us on <ENT1>August 16, 1977</ENT1>",
+                "<ENT0>Princess Diana</ENT0> perished on <ENT1>August 31, 1997</ENT1>",
+                "<ENT0>Martin Luther King Jr.</ENT0> was assassinated on <ENT1>April 4, 1968</ENT1>",
+                "<ENT0>John Lennon</ENT0> was killed on <ENT1>December 8, 1980</ENT1>",
+                "<ENT0>Michael Jackson</ENT0> expired on <ENT1>June 25, 2009</ENT1>",
+                "<ENT0>Steve Jobs</ENT0> succumbed on <ENT1>October 5, 2011</ENT1>",
+                "<ENT0>Whitney Houston</ENT0> passed on <ENT1>February 11, 2012</ENT1>",
+                "<ENT0>Nelson Mandela</ENT0> departed on <ENT1>December 5, 2013</ENT1>"
+            ]
+        ]
+    ],
+    "org:website": [
+        [
+            "organization",
+            "url",
+            [
+                "<ENT0>Apple</ENT0> hosts its official site at <ENT1>https://www.apple.com</ENT1>",
+                "<ENT0>NASA</ENT0> has its web presence at <ENT1>https://www.nasa.gov</ENT1>",
+                "<ENT0>Microsoft</ENT0> operates its website at <ENT1>https://www.microsoft.com</ENT1>",
+                "<ENT0>Google</ENT0> maintains its web portal at <ENT1>https://www.google.com</ENT1>",
+                "<ENT0>Amazon</ENT0> runs its official site at <ENT1>https://www.amazon.com</ENT1>",
+                "<ENT0>Facebook</ENT0> has its web presence at <ENT1>https://www.facebook.com</ENT1>",
+                "<ENT0>Tesla</ENT0> manages its website at <ENT1>https://www.tesla.com</ENT1>",
+                "<ENT0>Netflix</ENT0> hosts its official site at <ENT1>https://www.netflix.com</ENT1>",
+                "<ENT0>Twitter</ENT0> operates its web portal at <ENT1>https://www.twitter.com</ENT1>",
+                "<ENT0>SpaceX</ENT0> runs its official site at <ENT1>https://www.spacex.com</ENT1>"
+            ]
+        ]
+    ],
+    "per:stateorprovinces_of_residence": [
+        [
+            "person",
+            "state or province",
+            [
+                "<ENT0>John Doe</ENT0> has been living in <ENT1>California</ENT1>.",
+                "<ENT0>Jane Smith</ENT0> resides in <ENT1>Texas</ENT1>.",
+                "<ENT0>Michael Johnson</ENT0> is a resident of <ENT1>New York</ENT1>.",
+                "<ENT0>Emily Davis</ENT0> currently lives in <ENT1>Florida</ENT1>.",
+                "<ENT0>Robert Brown</ENT0> has a home in <ENT1>Illinois</ENT1>.",
+                "<ENT0>Linda Wilson</ENT0> is located in <ENT1>Pennsylvania</ENT1>.",
+                "<ENT0>William Lee</ENT0> has settled in <ENT1>Ohio</ENT1>.",
+                "<ENT0>Patricia Hall</ENT0> is based in <ENT1>Georgia</ENT1>.",
+                "<ENT0>David Allen</ENT0> has a residence in <ENT1>Michigan</ENT1>.",
+                "<ENT0>Mary Young</ENT0> is situated in <ENT1>North Carolina</ENT1>."
+            ]
+        ]
+    ],
+    "org:top_members/employees": [
+        [
+            "organization",
+            "person",
+            [
+                "<ENT0>Apple</ENT0> is led by <ENT1>Tim Cook</ENT1>",
+                "<ENT0>Microsoft</ENT0> has <ENT1>Satya Nadella</ENT1> as its CEO",
+                "<ENT0>Google</ENT0> is headed by <ENT1>Sundar Pichai</ENT1>",
+                "<ENT0>Amazon</ENT0> is run by <ENT1>Andy Jassy</ENT1>",
+                "<ENT0>Facebook</ENT0> is managed by <ENT1>Mark Zuckerberg</ENT1>",
+                "<ENT0>Tesla</ENT0> is directed by <ENT1>Elon Musk</ENT1>",
+                "<ENT0>SpaceX</ENT0> is commanded by <ENT1>Elon Musk</ENT1>",
+                "<ENT0>Berkshire Hathaway</ENT0> is overseen by <ENT1>Warren Buffett</ENT1>",
+                "<ENT0>JPMorgan Chase</ENT0> is guided by <ENT1>Jamie Dimon</ENT1>",
+                "<ENT0>Walmart</ENT0> is steered by <ENT1>Doug McMillon</ENT1>"
+            ]
+        ]
+    ],
+    "org:number_of_employees/members": [
+        [
+            "organization",
+            "number",
+            [
+                "<ENT0>Apple Inc.</ENT0> employs <ENT1>137,000</ENT1> people.",
+                "<ENT0>The United Nations</ENT0> has a staff of <ENT1>44,000</ENT1>.",
+                "<ENT0>Manchester United</ENT0> includes <ENT1>659</ENT1> members.",
+                "<ENT0>Greenpeace</ENT0> counts <ENT1>2,400</ENT1> staff members.",
+                "<ENT0>The Red Cross</ENT0> comprises <ENT1>80,000</ENT1> volunteers and employees.",
+                "<ENT0>Tesla</ENT0> has <ENT1>70,757</ENT1> employees on its payroll.",
+                "<ENT0>The National Geographic Society</ENT0> supports <ENT1>1,000</ENT1> employees.",
+                "<ENT0>The International Olympic Committee</ENT0> consists of <ENT1>500</ENT1> members.",
+                "<ENT0>Microsoft</ENT0> has a workforce of <ENT1>221,000</ENT1>.",
+                "<ENT0>The World Wildlife Fund</ENT0> engages <ENT1>6,500</ENT1> staff members."
+            ]
+        ]
+    ],
+    "org:members": [
+        [
+            "organization",
+            "organization",
+            [
+                "<ENT0>United Nations</ENT0> includes <ENT1>World Health Organization</ENT1>",
+                "<ENT0>European Union</ENT0> encompasses <ENT1>Germany</ENT1>",
+                "<ENT0>Google</ENT0> owns <ENT1>YouTube</ENT1>",
+                "<ENT0>NATO</ENT0> comprises <ENT1>Canada</ENT1>",
+                "<ENT0>Amazon</ENT0> controls <ENT1>Whole Foods Market</ENT1>",
+                "<ENT0>FIFA</ENT0> governs <ENT1>UEFA</ENT1>",
+                "<ENT0>Microsoft</ENT0> possesses <ENT1>LinkedIn</ENT1>",
+                "<ENT0>OPEC</ENT0> includes <ENT1>Saudi Arabia</ENT1>",
+                "<ENT0>Facebook</ENT0> owns <ENT1>Instagram</ENT1>",
+                "<ENT0>World Bank</ENT0> encompasses <ENT1>International Finance Corporation</ENT1>"
+            ]
+        ],
+        [
+            "organization",
+            "country",
+            [
+                "<ENT0>United Nations</ENT0> includes <ENT1>France</ENT1>",
+                "<ENT0>European Union</ENT0> encompasses <ENT1>Germany</ENT1>",
+                "<ENT0>NATO</ENT0> comprises <ENT1>Canada</ENT1>",
+                "<ENT0>World Health Organization</ENT0> incorporates <ENT1>Switzerland</ENT1>",
+                "<ENT0>African Union</ENT0> embraces <ENT1>Kenya</ENT1>",
+                "<ENT0>ASEAN</ENT0> contains <ENT1>Thailand</ENT1>",
+                "<ENT0>OPEC</ENT0> involves <ENT1>Saudi Arabia</ENT1>",
+                "<ENT0>International Monetary Fund</ENT0> includes <ENT1>Japan</ENT1>",
+                "<ENT0>World Bank</ENT0> encompasses <ENT1>India</ENT1>",
+                "<ENT0>UNESCO</ENT0> comprises <ENT1>Brazil</ENT1>"
+            ]
+        ]
+    ],
+    "org:country_of_branch": [
+        [
+            "organization",
+            "country",
+            [
+                "<ENT0>Apple</ENT0> operates a branch in <ENT1>Singapore</ENT1>",
+                "<ENT0>Google</ENT0> has an office in <ENT1>India</ENT1>",
+                "<ENT0>Microsoft</ENT0> is located in <ENT1>Germany</ENT1>",
+                "<ENT0>Amazon</ENT0> maintains a presence in <ENT1>Japan</ENT1>",
+                "<ENT0>Facebook</ENT0> runs operations in <ENT1>Brazil</ENT1>",
+                "<ENT0>Tesla</ENT0> has a headquarters in <ENT1>China</ENT1>",
+                "<ENT0>IBM</ENT0> conducts business in <ENT1>Australia</ENT1>",
+                "<ENT0>Coca-Cola</ENT0> has a subsidiary in <ENT1>Mexico</ENT1>",
+                "<ENT0>Nike</ENT0> is established in <ENT1>France</ENT1>",
+                "<ENT0>Samsung</ENT0> operates facilities in <ENT1>Canada</ENT1>"
+            ]
+        ]
+    ],
+    "per:spouse": [
+        [
+            "person",
+            "person",
+            [
+                "<ENT0>John</ENT0> is married to <ENT1>Jane</ENT1>",
+                "<ENT0>Alice</ENT0> has <ENT1>Bob</ENT1> as her husband",
+                "<ENT0>Michael</ENT0> is the spouse of <ENT1>Sarah</ENT1>",
+                "<ENT0>Emma</ENT0> is wedded to <ENT1>David</ENT1>",
+                "<ENT0>James</ENT0> is the partner of <ENT1>Linda</ENT1>",
+                "<ENT0>Sophia</ENT0> is the wife of <ENT1>William</ENT1>",
+                "<ENT0>Daniel</ENT0> is in a marital relationship with <ENT1>Olivia</ENT1>",
+                "<ENT0>Ava</ENT0> is the life partner of <ENT1>Matthew</ENT1>",
+                "<ENT0>Benjamin</ENT0> is the husband of <ENT1>Mia</ENT1>",
+                "<ENT0>Charlotte</ENT0> is married to <ENT1>Ethan</ENT1>"
+            ]
+        ]
+    ],
+    "org:stateorprovince_of_branch": [
+        [
+            "organization",
+            "state or province",
+            [
+                "<ENT0>Microsoft</ENT0> operates a branch in <ENT1>California</ENT1>",
+                "<ENT0>Google</ENT0> has an office in <ENT1>New York</ENT1>",
+                "<ENT0>Amazon</ENT0> is located in <ENT1>Washington</ENT1>",
+                "<ENT0>Apple</ENT0> maintains a headquarters in <ENT1>California</ENT1>",
+                "<ENT0>Tesla</ENT0> runs a facility in <ENT1>Texas</ENT1>",
+                "<ENT0>Facebook</ENT0> has a branch in <ENT1>Ontario</ENT1>",
+                "<ENT0>IBM</ENT0> operates in <ENT1>New York</ENT1>",
+                "<ENT0>Coca-Cola</ENT0> has a regional office in <ENT1>Georgia</ENT1>",
+                "<ENT0>PepsiCo</ENT0> is based in <ENT1>New York</ENT1>",
+                "<ENT0>Walmart</ENT0> has a distribution center in <ENT1>Arkansas</ENT1>"
+            ]
+        ]
+    ],
+    "org:political/religious_affiliation": [
+        [
+            "organization",
+            "ideology",
+            [
+                "<ENT0>The American Civil Liberties Union</ENT0> advocates for <ENT1>liberal</ENT1> principles.",
+                "<ENT0>The Heritage Foundation</ENT0> promotes <ENT1>conservative</ENT1> values.",
+                "<ENT0>Greenpeace</ENT0> aligns with <ENT1>environmentalist</ENT1> ideals.",
+                "<ENT0>The National Rifle Association</ENT0> supports <ENT1>libertarian</ENT1> views.",
+                "<ENT0>The Catholic Church</ENT0> upholds <ENT1>Christian</ENT1> beliefs.",
+                "<ENT0>The Democratic Socialists of America</ENT0> endorses <ENT1>socialist</ENT1> policies.",
+                "<ENT0>The Republican National Committee</ENT0> backs <ENT1>Republican</ENT1> ideologies.",
+                "<ENT0>The Sierra Club</ENT0> champions <ENT1>progressive</ENT1> environmental causes.",
+                "<ENT0>The Muslim Brotherhood</ENT0> adheres to <ENT1>Islamic</ENT1> principles.",
+                "<ENT0>The Communist Party of China</ENT0> follows <ENT1>communist</ENT1> doctrines."
+            ]
+        ],
+        [
+            "organization",
+            "religion",
+            [
+                "<ENT0>The Republican Party</ENT0> aligns with <ENT1>Evangelical Christianity</ENT1>",
+                "<ENT0>The Democratic Party</ENT0> is influenced by <ENT1>Progressive Christianity</ENT1>",
+                "<ENT0>The Labour Party</ENT0> supports <ENT1>Socialism</ENT1>",
+                "<ENT0>The Conservative Party</ENT0> endorses <ENT1>Conservative Christianity</ENT1>",
+                "<ENT0>The Green Party</ENT0> advocates for <ENT1>Environmentalism</ENT1>",
+                "<ENT0>The Libertarian Party</ENT0> promotes <ENT1>Libertarianism</ENT1>",
+                "<ENT0>The Communist Party</ENT0> adheres to <ENT1>Marxism</ENT1>",
+                "<ENT0>The Nationalist Party</ENT0> embraces <ENT1>Nationalism</ENT1>",
+                "<ENT0>The Socialist Party</ENT0> follows <ENT1>Socialism</ENT1>",
+                "<ENT0>The Islamic Party</ENT0> upholds <ENT1>Islam</ENT1>"
+            ]
+        ]
+    ],
+    "org:member_of": [
+        [
+            "organization",
+            "organization",
+            [
+                "<ENT0>Apple</ENT0> is a part of the <ENT1>Business Roundtable</ENT1>",
+                "<ENT0>Greenpeace</ENT0> belongs to the <ENT1>International Campaign to Abolish Nuclear Weapons</ENT1>",
+                "<ENT0>Ford Motor Company</ENT0> is affiliated with the <ENT1>Alliance of Automobile Manufacturers</ENT1>",
+                "<ENT0>Amnesty International</ENT0> is a member of the <ENT1>International Freedom of Expression Exchange</ENT1>",
+                "<ENT0>Google</ENT0> is incorporated in the <ENT1>United States</ENT1>",
+                "<ENT0>UNICEF</ENT0> operates under the <ENT1>United Nations</ENT1>",
+                "<ENT0>Tesla</ENT0> is a subsidiary of <ENT1>Tesla, Inc.</ENT1>",
+                "<ENT0>Red Cross</ENT0> is a component of the <ENT1>International Federation of Red Cross and Red Crescent Societies</ENT1>",
+                "<ENT0>Microsoft</ENT0> is a participant in the <ENT1>World Business Council for Sustainable Development</ENT1>",
+                "<ENT0>Oxfam</ENT0> is a constituent of the <ENT1>International Council of Voluntary Agencies</ENT1>"
+            ]
+        ]
+    ],
+    "per:siblings": [
+        [
+            "person",
+            "person",
+            [
+                "<ENT0>Alice</ENT0> is the sister of <ENT1>Bob</ENT1>",
+                "<ENT0>John</ENT0> has a brother named <ENT1>Mike</ENT1>",
+                "<ENT0>Emma</ENT0> and <ENT1>Lily</ENT1> are sisters",
+                "<ENT0>David</ENT0> grew up with his sibling <ENT1>Sarah</ENT1>",
+                "<ENT0>Olivia</ENT0> shares a bond with her brother <ENT1>James</ENT1>",
+                "<ENT0>Michael</ENT0> is the sibling of <ENT1>Emily</ENT1>",
+                "<ENT0>Sophia</ENT0> was raised with her sister <ENT1>Ava</ENT1>",
+                "<ENT0>Daniel</ENT0> has a sibling named <ENT1>Grace</ENT1>",
+                "<ENT0>Mia</ENT0> is the sister of <ENT1>Ethan</ENT1>",
+                "<ENT0>Matthew</ENT0> and <ENT1>Chloe</ENT1> are siblings"
+            ]
+        ]
+    ],
+    "per:stateorprovince_of_birth": [
+        [
+            "person",
+            "state or province",
+            [
+                "<ENT0>Barack Obama</ENT0> was born in <ENT1>Hawaii</ENT1>.",
+                "<ENT0>Taylor Swift</ENT0> is a native of <ENT1>Pennsylvania</ENT1>.",
+                "<ENT0>Leonardo DiCaprio</ENT0> hails from <ENT1>California</ENT1>.",
+                "<ENT0>Justin Bieber</ENT0> originates from <ENT1>Ontario</ENT1>.",
+                "<ENT0>Beyonc\u00e9</ENT0> was born and raised in <ENT1>Texas</ENT1>.",
+                "<ENT0>Dwayne Johnson</ENT0> is originally from <ENT1>California</ENT1>.",
+                "<ENT0>Adele</ENT0> was born in <ENT1>London</ENT1>.",
+                "<ENT0>Cristiano Ronaldo</ENT0> is a native of <ENT1>Madeira</ENT1>.",
+                "<ENT0>Emma Watson</ENT0> hails from <ENT1>Oxfordshire</ENT1>.",
+                "<ENT0>Elon Musk</ENT0> was born in <ENT1>Gauteng</ENT1>."
+            ]
+        ]
+    ],
+    "org:dissolved": [
+        [
+            "organization",
+            "date",
+            [
+                "<ENT0>Enron</ENT0> ceased operations on <ENT1>December 2, 2001</ENT1>",
+                "<ENT0>Pan American World Airways</ENT0> went out of business on <ENT1>December 4, 1991</ENT1>",
+                "<ENT0>Lehman Brothers</ENT0> filed for bankruptcy on <ENT1>September 15, 2008</ENT1>",
+                "<ENT0>Bear Stearns</ENT0> was liquidated on <ENT1>May 31, 2008</ENT1>",
+                "<ENT0>Compaq</ENT0> merged into HP on <ENT1>May 3, 2002</ENT1>",
+                "<ENT0>MCI WorldCom</ENT0> was acquired and dissolved on <ENT1>July 20, 2005</ENT1>",
+                "<ENT0>Arthur Andersen</ENT0> was disbanded on <ENT1>August 31, 2002</ENT1>",
+                "<ENT0>Blockbuster LLC</ENT0> shut down on <ENT1>January 12, 2014</ENT1>",
+                "<ENT0>Toys R Us</ENT0> closed its doors on <ENT1>June 29, 2018</ENT1>",
+                "<ENT0>Borders Group</ENT0> was liquidated on <ENT1>September 16, 2011</ENT1>"
+            ]
+        ]
+    ],
+    "per:other_family": [
+        [
+            "person",
+            "person",
+            [
+                "<ENT0>John</ENT0> has a cousin named <ENT1>Mary</ENT1>",
+                "<ENT0>Alice</ENT0> is the aunt of <ENT1>Tom</ENT1>",
+                "<ENT0>Bob</ENT0> has a brother-in-law named <ENT1>James</ENT1>",
+                "<ENT0>Sarah</ENT0> is the niece of <ENT1>Linda</ENT1>",
+                "<ENT0>David</ENT0> has a sister-in-law named <ENT1>Emma</ENT1>",
+                "<ENT0>Laura</ENT0> is the granddaughter of <ENT1>Rose</ENT1>",
+                "<ENT0>Mike</ENT0> has a nephew named <ENT1>Charlie</ENT1>",
+                "<ENT0>Emily</ENT0> is the grandniece of <ENT1>Grace</ENT1>",
+                "<ENT0>Paul</ENT0> has a cousin named <ENT1>Olivia</ENT1>",
+                "<ENT0>Jane</ENT0> is the aunt of <ENT1>Lucas</ENT1>"
+            ]
+        ]
+    ],
+    "org:shareholders": [
+        [
+            "organization",
+            "person",
+            [
+                "<ENT0>Apple Inc.</ENT0> is owned in part by <ENT1>Warren Buffett</ENT1>",
+                "<ENT0>Tesla</ENT0> has <ENT1>Elon Musk</ENT1> as a major shareholder",
+                "<ENT0>Microsoft</ENT0> includes <ENT1>Bill Gates</ENT1> among its shareholders",
+                "<ENT0>Amazon</ENT0> is partially owned by <ENT1>Jeff Bezos</ENT1>",
+                "<ENT0>Google</ENT0> counts <ENT1>Larry Page</ENT1> as a shareholder",
+                "<ENT0>Facebook</ENT0> has <ENT1>Mark Zuckerberg</ENT1> as a significant shareholder",
+                "<ENT0>Berkshire Hathaway</ENT0> is owned in part by <ENT1>Warren Buffett</ENT1>",
+                "<ENT0>Alibaba</ENT0> includes <ENT1>Jack Ma</ENT1> among its shareholders",
+                "<ENT0>SpaceX</ENT0> is partially owned by <ENT1>Elon Musk</ENT1>",
+                "<ENT0>Netflix</ENT0> has <ENT1>Reed Hastings</ENT1> as a shareholder"
+            ]
+        ],
+        [
+            "organization",
+            "organization",
+            [
+                "<ENT0>Apple Inc.</ENT0> is owned in part by <ENT1>Berkshire Hathaway</ENT1>",
+                "<ENT0>Tesla Motors</ENT0> has <ENT1>Elon Musk</ENT1> as a major shareholder",
+                "<ENT0>Microsoft Corporation</ENT0> includes <ENT1>Bill Gates</ENT1> among its shareholders",
+                "<ENT0>Amazon.com</ENT0> is partially owned by <ENT1>Jeff Bezos</ENT1>",
+                "<ENT0>Facebook</ENT0> has <ENT1>Mark Zuckerberg</ENT1> as a significant shareholder",
+                "<ENT0>Google</ENT0> is owned in part by <ENT1>Alphabet Inc.</ENT1>",
+                "<ENT0>Netflix</ENT0> includes <ENT1>Reed Hastings</ENT1> among its shareholders",
+                "<ENT0>Coca-Cola Company</ENT0> is partially owned by <ENT1>Warren Buffett</ENT1>",
+                "<ENT0>Walmart</ENT0> has <ENT1>the Walton family</ENT1> as major shareholders",
+                "<ENT0>IBM</ENT0> is owned in part by <ENT1>State Street Corporation</ENT1>"
+            ]
+        ]
+    ],
+    "per:parents": [
+        [
+            "person",
+            "person",
+            [
+                "<ENT0>John</ENT0> was born to <ENT1>Mary</ENT1>.",
+                "<ENT0>Emma</ENT0> is the daughter of <ENT1>Steve</ENT1>.",
+                "<ENT0>Michael</ENT0> has <ENT1>Linda</ENT1> as his mother.",
+                "<ENT0>Sophia</ENT0> was raised by <ENT1>Tom</ENT1>.",
+                "<ENT0>Daniel</ENT0> is the son of <ENT1>Anna</ENT1>.",
+                "<ENT0>Olivia</ENT0> was adopted by <ENT1>Paul</ENT1>.",
+                "<ENT0>James</ENT0> is the child of <ENT1>Sarah</ENT1>.",
+                "<ENT0>Ava</ENT0> was brought up by <ENT1>David</ENT1>.",
+                "<ENT0>William</ENT0> is the offspring of <ENT1>Laura</ENT1>.",
+                "<ENT0>Mia</ENT0> was nurtured by <ENT1>Robert</ENT1>."
+            ]
+        ]
+    ],
+    "per:charges": [
+        [
+            "person",
+            "criminal charge",
+            [
+                "<ENT0>John Doe</ENT0> was accused of <ENT1>fraud</ENT1>",
+                "<ENT0>Jane Smith</ENT0> is facing <ENT1>assault</ENT1> charges",
+                "<ENT0>Michael Brown</ENT0> was convicted of <ENT1>theft</ENT1>",
+                "<ENT0>Emily Davis</ENT0> has been indicted for <ENT1>embezzlement</ENT1>",
+                "<ENT0>David Wilson</ENT0> was arrested for <ENT1>burglary</ENT1>",
+                "<ENT0>Sarah Johnson</ENT0> is charged with <ENT1>arson</ENT1>",
+                "<ENT0>Robert Lee</ENT0> was found guilty of <ENT1>murder</ENT1>",
+                "<ENT0>Laura Clark</ENT0> is under investigation for <ENT1>tax evasion</ENT1>",
+                "<ENT0>James White</ENT0> was sentenced for <ENT1>drug trafficking</ENT1>",
+                "<ENT0>Lisa Green</ENT0> is suspected of <ENT1>identity theft</ENT1>"
+            ]
+        ]
+    ],
+    "per:schools_attended": [
+        [
+            "person",
+            "organization",
+            [
+                "<ENT0>Barack Obama</ENT0> graduated from <ENT1>Harvard Law School</ENT1>",
+                "<ENT0>Emma Watson</ENT0> studied at <ENT1>Brown University</ENT1>",
+                "<ENT0>Elon Musk</ENT0> was enrolled in <ENT1>University of Pennsylvania</ENT1>",
+                "<ENT0>Serena Williams</ENT0> went to <ENT1>The Art Institute of Fort Lauderdale</ENT1>",
+                "<ENT0>Mark Zuckerberg</ENT0> attended <ENT1>Harvard University</ENT1>",
+                "<ENT0>Oprah Winfrey</ENT0> was a student at <ENT1>Tennessee State University</ENT1>",
+                "<ENT0>Steve Jobs</ENT0> dropped out of <ENT1>Reed College</ENT1>",
+                "<ENT0>Beyonc\u00e9</ENT0> completed her education at <ENT1>High School for the Performing and Visual Arts</ENT1>",
+                "<ENT0>Bill Gates</ENT0> was educated at <ENT1>Harvard University</ENT1>",
+                "<ENT0>Taylor Swift</ENT0> was a part of <ENT1>Hendersonville High School</ENT1>"
+            ]
+        ]
+    ],
+    "per:cause_of_death": [
+        [
+            "person",
+            "cause of death",
+            [
+                "<ENT0>John Doe</ENT0> succumbed to <ENT1>heart failure</ENT1>",
+                "<ENT0>Jane Smith</ENT0> passed away due to <ENT1>cancer</ENT1>",
+                "<ENT0>Michael Brown</ENT0> died from <ENT1>a car accident</ENT1>",
+                "<ENT0>Emily Davis</ENT0> was killed by <ENT1>a gunshot wound</ENT1>",
+                "<ENT0>Robert Johnson</ENT0> lost his life to <ENT1>pneumonia</ENT1>",
+                "<ENT0>Sarah Wilson</ENT0> perished in <ENT1>a fire</ENT1>",
+                "<ENT0>David Lee</ENT0> was taken by <ENT1>a stroke</ENT1>",
+                "<ENT0>Laura Clark</ENT0> expired because of <ENT1>diabetes</ENT1>",
+                "<ENT0>James White</ENT0> met his end with <ENT1>a heart attack</ENT1>",
+                "<ENT0>Linda Green</ENT0> was claimed by <ENT1>Alzheimer's disease</ENT1>"
+            ]
+        ]
+    ],
+    "per:city_of_death": [
+        [
+            "person",
+            "city",
+            [
+                "<ENT0>John Lennon</ENT0> passed away in <ENT1>New York City</ENT1>",
+                "<ENT0>Marilyn Monroe</ENT0> died in <ENT1>Los Angeles</ENT1>",
+                "<ENT0>Elvis Presley</ENT0> met his end in <ENT1>Memphis</ENT1>",
+                "<ENT0>Princess Diana</ENT0> lost her life in <ENT1>Paris</ENT1>",
+                "<ENT0>Michael Jackson</ENT0> breathed his last in <ENT1>Los Angeles</ENT1>",
+                "<ENT0>Martin Luther King Jr.</ENT0> was assassinated in <ENT1>Memphis</ENT1>",
+                "<ENT0>Abraham Lincoln</ENT0> was killed in <ENT1>Washington, D.C.</ENT1>",
+                "<ENT0>Albert Einstein</ENT0> expired in <ENT1>Princeton</ENT1>",
+                "<ENT0>Frida Kahlo</ENT0> perished in <ENT1>Mexico City</ENT1>",
+                "<ENT0>Nelson Mandela</ENT0> departed in <ENT1>Johannesburg</ENT1>"
+            ]
+        ]
+    ],
+    "per:stateorprovince_of_death": [
+        [
+            "person",
+            "state or province",
+            [
+                "<ENT0>Abraham Lincoln</ENT0> passed away in <ENT1>Illinois</ENT1>",
+                "<ENT0>Elvis Presley</ENT0> died in <ENT1>Tennessee</ENT1>",
+                "<ENT0>Marilyn Monroe</ENT0> met her end in <ENT1>California</ENT1>",
+                "<ENT0>Martin Luther King Jr.</ENT0> was assassinated in <ENT1>Tennessee</ENT1>",
+                "<ENT0>Princess Diana</ENT0> perished in <ENT1>\u00cele-de-France</ENT1>",
+                "<ENT0>John Lennon</ENT0> was killed in <ENT1>New York</ENT1>",
+                "<ENT0>Michael Jackson</ENT0> breathed his last in <ENT1>California</ENT1>",
+                "<ENT0>Whitney Houston</ENT0> expired in <ENT1>California</ENT1>",
+                "<ENT0>Steve Jobs</ENT0> succumbed in <ENT1>California</ENT1>",
+                "<ENT0>Kurt Cobain</ENT0> ended his life in <ENT1>Washington</ENT1>"
+            ]
+        ]
+    ],
+    "org:founded": [
+        [
+            "organization",
+            "date",
+            [
+                "<ENT0>Apple</ENT0> was established on <ENT1>April 1, 1976</ENT1>",
+                "<ENT0>Microsoft</ENT0> came into existence on <ENT1>April 4, 1975</ENT1>",
+                "<ENT0>Google</ENT0> was born on <ENT1>September 4, 1998</ENT1>",
+                "<ENT0>Amazon</ENT0> was set up on <ENT1>July 5, 1994</ENT1>",
+                "<ENT0>Facebook</ENT0> was launched on <ENT1>February 4, 2004</ENT1>",
+                "<ENT0>Tesla</ENT0> was initiated on <ENT1>July 1, 2003</ENT1>",
+                "<ENT0>SpaceX</ENT0> was formed on <ENT1>May 6, 2002</ENT1>",
+                "<ENT0>Netflix</ENT0> was created on <ENT1>August 29, 1997</ENT1>",
+                "<ENT0>Uber</ENT0> was started on <ENT1>March 1, 2009</ENT1>",
+                "<ENT0>Airbnb</ENT0> was founded on <ENT1>August 1, 2008</ENT1>"
+            ]
+        ]
+    ],
+    "per:country_of_death": [
+        [
+            "person",
+            "country",
+            [
+                "<ENT0>Albert Einstein</ENT0> passed away in <ENT1>United States</ENT1>",
+                "<ENT0>Frida Kahlo</ENT0> died in <ENT1>Mexico</ENT1>",
+                "<ENT0>Nelson Mandela</ENT0> breathed his last in <ENT1>South Africa</ENT1>",
+                "<ENT0>Leonardo da Vinci</ENT0> met his end in <ENT1>France</ENT1>",
+                "<ENT0>Mahatma Gandhi</ENT0> was assassinated in <ENT1>India</ENT1>",
+                "<ENT0>Marilyn Monroe</ENT0> perished in <ENT1>United States</ENT1>",
+                "<ENT0>Pablo Picasso</ENT0> expired in <ENT1>France</ENT1>",
+                "<ENT0>Anne Frank</ENT0> succumbed in <ENT1>Germany</ENT1>",
+                "<ENT0>Martin Luther King Jr.</ENT0> was killed in <ENT1>United States</ENT1>",
+                "<ENT0>Vincent van Gogh</ENT0> took his last breath in <ENT1>France</ENT1>"
+            ]
+        ]
+    ],
+    "per:country_of_birth": [
+        [
+            "person",
+            "country",
+            [
+                "<ENT0>Albert Einstein</ENT0> was born in <ENT1>Germany</ENT1>",
+                "<ENT0>Nelson Mandela</ENT0> hails from <ENT1>South Africa</ENT1>",
+                "<ENT0>Marie Curie</ENT0> is a native of <ENT1>Poland</ENT1>",
+                "<ENT0>Leonardo da Vinci</ENT0> originated from <ENT1>Italy</ENT1>",
+                "<ENT0>Mahatma Gandhi</ENT0> was born in <ENT1>India</ENT1>",
+                "<ENT0>Frida Kahlo</ENT0> was a native of <ENT1>Mexico</ENT1>",
+                "<ENT0>Pablo Picasso</ENT0> was born in <ENT1>Spain</ENT1>",
+                "<ENT0>Ada Lovelace</ENT0> hails from <ENT1>England</ENT1>",
+                "<ENT0>Bruce Lee</ENT0> was born in <ENT1>United States</ENT1>",
+                "<ENT0>Malala Yousafzai</ENT0> originated from <ENT1>Pakistan</ENT1>"
+            ]
+        ]
+    ],
+    "per:date_of_birth": [
+        [
+            "person",
+            "date",
+            [
+                "<ENT0>Albert Einstein</ENT0> was born on <ENT1>March 14, 1879</ENT1>",
+                "<ENT0>Marie Curie</ENT0> came into the world on <ENT1>November 7, 1867</ENT1>",
+                "<ENT0>Leonardo da Vinci</ENT0> first saw the light of day on <ENT1>April 15, 1452</ENT1>",
+                "<ENT0>Nelson Mandela</ENT0> entered the world on <ENT1>July 18, 1918</ENT1>",
+                "<ENT0>Mother Teresa</ENT0> was delivered on <ENT1>August 26, 1910</ENT1>",
+                "<ENT0>William Shakespeare</ENT0> made his debut on <ENT1>April 23, 1564</ENT1>",
+                "<ENT0>Martin Luther King Jr.</ENT0> arrived on <ENT1>January 15, 1929</ENT1>",
+                "<ENT0>Cleopatra</ENT0> was born on <ENT1>69 BC</ENT1>",
+                "<ENT0>Mahatma Gandhi</ENT0> was born on <ENT1>October 2, 1869</ENT1>",
+                "<ENT0>Isaac Newton</ENT0> was born on <ENT1>January 4, 1643</ENT1>"
+            ]
+        ]
+    ],
+    "per:cities_of_residence": [
+        [
+            "person",
+            "city",
+            [
+                "<ENT0>John Doe</ENT0> has been living in <ENT1>New York City</ENT1>.",
+                "<ENT0>Jane Smith</ENT0> resides in <ENT1>Los Angeles</ENT1>.",
+                "<ENT0>Michael Johnson</ENT0> is currently located in <ENT1>Chicago</ENT1>.",
+                "<ENT0>Emily Davis</ENT0> has settled in <ENT1>Houston</ENT1>.",
+                "<ENT0>David Wilson</ENT0> is a resident of <ENT1>Phoenix</ENT1>.",
+                "<ENT0>Sarah Brown</ENT0> has made <ENT1>Philadelphia</ENT1> her home.",
+                "<ENT0>James Taylor</ENT0> is based in <ENT1>San Antonio</ENT1>.",
+                "<ENT0>Linda Martinez</ENT0> has taken up residence in <ENT1>San Diego</ENT1>.",
+                "<ENT0>Robert Anderson</ENT0> is staying in <ENT1>Dallas</ENT1>.",
+                "<ENT0>Patricia Thomas</ENT0> has moved to <ENT1>San Jose</ENT1>."
+            ]
+        ]
+    ],
+    "per:city_of_birth": [
+        [
+            "person",
+            "city",
+            [
+                "<ENT0>Barack Obama</ENT0> was born in <ENT1>Honolulu</ENT1>.",
+                "<ENT0>Elon Musk</ENT0> hails from <ENT1>Pretoria</ENT1>.",
+                "<ENT0>Adele</ENT0> is a native of <ENT1>Tottenham</ENT1>.",
+                "<ENT0>Lionel Messi</ENT0> originates from <ENT1>Rosario</ENT1>.",
+                "<ENT0>Taylor Swift</ENT0> was born and raised in <ENT1>Reading</ENT1>.",
+                "<ENT0>Brad Pitt</ENT0> comes from <ENT1>Shawnee</ENT1>.",
+                "<ENT0>Angela Merkel</ENT0> was born in <ENT1>Hamburg</ENT1>.",
+                "<ENT0>Cristiano Ronaldo</ENT0> is from <ENT1>Funchal</ENT1>.",
+                "<ENT0>Emma Watson</ENT0> was born in <ENT1>Paris</ENT1>.",
+                "<ENT0>Steve Jobs</ENT0> was born in <ENT1>San Francisco</ENT1>."
+            ]
+        ]
+    ]
+}

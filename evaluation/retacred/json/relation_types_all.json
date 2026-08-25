@@ -1,0 +1,400 @@
+{
+    "org:founded_by": {
+        "subj types": [
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "PERSON"
+        ]
+    },
+    "no_relation": {
+        "subj types": [
+            "PERSON",
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "PERSON",
+            "ORGANIZATION",
+            "NUMBER",
+            "DATE",
+            "NATIONALITY",
+            "TITLE",
+            "CRIMINAL_CHARGE",
+            "CITY",
+            "LOCATION",
+            "DURATION",
+            "RELIGION",
+            "COUNTRY",
+            "CAUSE_OF_DEATH",
+            "STATE_OR_PROVINCE",
+            "IDEOLOGY",
+            "URL"
+        ]
+    },
+    "per:identity": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "PERSON"
+        ]
+    },
+    "org:alternate_names": {
+        "subj types": [
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "ORGANIZATION"
+        ]
+    },
+    "per:children": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "PERSON"
+        ]
+    },
+    "per:origin": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "NATIONALITY",
+            "COUNTRY",
+            "CITY",
+            "LOCATION"
+        ]
+    },
+    "per:countries_of_residence": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "COUNTRY",
+            "NATIONALITY",
+            "LOCATION",
+            "CITY"
+        ]
+    },
+    "per:employee_of": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "ORGANIZATION",
+            "CITY",
+            "STATE_OR_PROVINCE",
+            "COUNTRY",
+            "NATIONALITY",
+            "LOCATION"
+        ]
+    },
+    "per:title": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "TITLE",
+            "RELIGION"
+        ]
+    },
+    "org:city_of_branch": {
+        "subj types": [
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "CITY",
+            "LOCATION",
+            "STATE_OR_PROVINCE",
+            "COUNTRY"
+        ]
+    },
+    "per:religion": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "RELIGION",
+            "TITLE"
+        ]
+    },
+    "per:age": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "NUMBER",
+            "DURATION",
+            "TITLE",
+            "DATE"
+        ]
+    },
+    "per:date_of_death": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "DATE",
+            "NUMBER",
+            "DURATION"
+        ]
+    },
+    "org:website": {
+        "subj types": [
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "URL",
+            "NUMBER"
+        ]
+    },
+    "per:stateorprovinces_of_residence": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "STATE_OR_PROVINCE",
+            "LOCATION",
+            "CITY",
+            "COUNTRY"
+        ]
+    },
+    "org:top_members/employees": {
+        "subj types": [
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "PERSON"
+        ]
+    },
+    "org:number_of_employees/members": {
+        "subj types": [
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "NUMBER"
+        ]
+    },
+    "org:members": {
+        "subj types": [
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "ORGANIZATION",
+            "COUNTRY",
+            "LOCATION",
+            "CITY",
+            "STATE_OR_PROVINCE"
+        ]
+    },
+    "org:country_of_branch": {
+        "subj types": [
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "COUNTRY",
+            "LOCATION",
+            "STATE_OR_PROVINCE",
+            "CITY"
+        ]
+    },
+    "per:spouse": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "PERSON"
+        ]
+    },
+    "org:stateorprovince_of_branch": {
+        "subj types": [
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "STATE_OR_PROVINCE",
+            "LOCATION",
+            "COUNTRY",
+            "CITY"
+        ]
+    },
+    "org:political/religious_affiliation": {
+        "subj types": [
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "IDEOLOGY",
+            "RELIGION"
+        ]
+    },
+    "org:member_of": {
+        "subj types": [
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "ORGANIZATION"
+        ]
+    },
+    "per:siblings": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "PERSON"
+        ]
+    },
+    "per:stateorprovince_of_birth": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "STATE_OR_PROVINCE",
+            "LOCATION",
+            "NATIONALITY",
+            "CITY"
+        ]
+    },
+    "org:dissolved": {
+        "subj types": [
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "DATE"
+        ]
+    },
+    "per:other_family": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "PERSON"
+        ]
+    },
+    "org:shareholders": {
+        "subj types": [
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "PERSON",
+            "ORGANIZATION"
+        ]
+    },
+    "per:parents": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "PERSON"
+        ]
+    },
+    "per:charges": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "CAUSE_OF_DEATH",
+            "CRIMINAL_CHARGE",
+            "TITLE"
+        ]
+    },
+    "per:schools_attended": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "ORGANIZATION"
+        ]
+    },
+    "per:cause_of_death": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "CAUSE_OF_DEATH",
+            "CRIMINAL_CHARGE",
+            "DATE",
+            "TITLE"
+        ]
+    },
+    "per:city_of_death": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "CITY",
+            "STATE_OR_PROVINCE",
+            "LOCATION",
+            "COUNTRY"
+        ]
+    },
+    "per:stateorprovince_of_death": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "STATE_OR_PROVINCE",
+            "LOCATION",
+            "NATIONALITY"
+        ]
+    },
+    "org:founded": {
+        "subj types": [
+            "ORGANIZATION"
+        ],
+        "obj types": [
+            "DATE"
+        ]
+    },
+    "per:country_of_death": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "NATIONALITY",
+            "COUNTRY",
+            "CITY"
+        ]
+    },
+    "per:country_of_birth": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "COUNTRY",
+            "STATE_OR_PROVINCE",
+            "NATIONALITY"
+        ]
+    },
+    "per:date_of_birth": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "DATE",
+            "NUMBER",
+            "DURATION"
+        ]
+    },
+    "per:cities_of_residence": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "CITY",
+            "STATE_OR_PROVINCE",
+            "LOCATION",
+            "COUNTRY"
+        ]
+    },
+    "per:city_of_birth": {
+        "subj types": [
+            "PERSON"
+        ],
+        "obj types": [
+            "CITY",
+            "LOCATION",
+            "NATIONALITY",
+            "STATE_OR_PROVINCE"
+        ]
+    }
+}

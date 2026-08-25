@@ -1,0 +1,128 @@
+{
+    "Cause-Effect": [
+        [
+            "Smoking damages health.",
+            "Rain creates puddles.",
+            "Exercise reduces stress.",
+            "Fire generates heat.",
+            "Pollution harms the environment.",
+            "Studying improves knowledge.",
+            "Earthquakes cause tremors.",
+            "Laughter produces happiness.",
+            "Sunlight triggers photosynthesis.",
+            "Noise disrupts sleep."
+        ]
+    ],
+    "Instrument-Agency": [
+        [
+            "The painter wields the brush.",
+            "The chef utilizes the knife.",
+            "The musician plays the guitar.",
+            "The surgeon employs the scalpel.",
+            "The gardener handles the trowel.",
+            "The carpenter operates the saw.",
+            "The photographer maneuvers the camera.",
+            "The writer grasps the pen.",
+            "The mechanic manipulates the wrench.",
+            "The scientist adjusts the microscope."
+        ]
+    ],
+    "Product-Producer": [
+        [
+            "Apple manufactures iPhone",
+            "Nike creates Air Jordan",
+            "Tesla builds Model S",
+            "Coca-Cola produces Coke",
+            "Sony develops PlayStation",
+            "Google designs Pixel",
+            "Microsoft makes Xbox",
+            "Ford assembles Mustang",
+            "Adidas crafts Ultraboost",
+            "Samsung fabricates Galaxy"
+        ]
+    ],
+    "Content-Container": [
+        [
+            "Apples filled the basket.",
+            "Water flowed into the jug.",
+            "Books lined the shelves.",
+            "Clothes hung in the closet.",
+            "Coffee brewed in the pot.",
+            "Pencils rested in the pencil case.",
+            "Flowers bloomed in the vase.",
+            "Luggage occupied the trunk.",
+            "Ice cream scooped into the bowl.",
+            "Pills rattled in the bottle."
+        ]
+    ],
+    "Entity-Origin": [
+        [
+            "The song traces its roots to Africa.",
+            "The idea stems from ancient philosophy.",
+            "The tradition originates from medieval Europe.",
+            "The language evolved from Latin.",
+            "The recipe hails from Italy.",
+            "The dance form emerged from India.",
+            "The technology was pioneered in Silicon Valley.",
+            "The fashion trend started in Paris.",
+            "The art movement was born in France.",
+            "The mythology derives from Greek culture."
+        ]
+    ],
+    "Entity-Destination": [
+        [
+            "The package was shipped to the address.",
+            "The email was sent to the recipient.",
+            "The car drove to the garage.",
+            "The letter was mailed to the office.",
+            "The bird flew to the nest.",
+            "The data was transferred to the server.",
+            "The train traveled to the station.",
+            "The message was forwarded to the manager.",
+            "The ship sailed to the harbor.",
+            "The student moved to the university."
+        ]
+    ],
+    "Component-Whole": [
+        [
+            "A wheel supports a bicycle.",
+            "Chapters constitute a book.",
+            "Ingredients form a recipe.",
+            "Keys compose a piano.",
+            "Pages fill a notebook.",
+            "Pixels create a digital image.",
+            "Rooms make up a house.",
+            "Screws hold together a chair.",
+            "Strings produce music on a guitar.",
+            "Words construct a sentence."
+        ]
+    ],
+    "Member-Collection": [
+        [
+            "John belongs to the soccer team.",
+            "The book is part of the library collection.",
+            "Mars is included in the solar system.",
+            "The song is featured on the album.",
+            "The painting is exhibited in the gallery.",
+            "The student is enrolled in the university.",
+            "The ingredient is listed in the recipe.",
+            "The city is located in the country.",
+            "The employee works for the company.",
+            "The chapter is included in the book."
+        ]
+    ],
+    "Message-Topic": [
+        [
+            "The email describes the project.",
+            "The news article covers the election.",
+            "The text message mentions the meeting.",
+            "The letter discusses the vacation.",
+            "The memo outlines the policy.",
+            "The report analyzes the market.",
+            "The tweet comments on the event.",
+            "The note explains the procedure.",
+            "The announcement introduces the new product.",
+            "The post reviews the movie."
+        ]
+    ]
+}

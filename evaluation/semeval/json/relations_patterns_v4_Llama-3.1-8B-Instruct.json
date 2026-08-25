@@ -1,0 +1,128 @@
+{
+    "Cause-Effect": [
+        [
+            "The sun heats the earth.",
+            "Smoking causes lung cancer.",
+            "The rain fills the reservoir.",
+            "The chef cooks the steak.",
+            "The engine produces exhaust fumes.",
+            "The farmer harvests the wheat.",
+            "The doctor prescribes antibiotics.",
+            "The factory emits pollutants.",
+            "The teacher assigns homework.",
+            "The artist creates a painting."
+        ]
+    ],
+    "Instrument-Agency": [
+        [
+            "The painter uses a brush.",
+            "She drives a car.",
+            "He plays a guitar.",
+            "The chef cooks with a knife.",
+            "The musician writes with a pen.",
+            "The engineer designs with a computer.",
+            "The artist sculpts with clay.",
+            "The doctor operates with a scalpel.",
+            "The writer composes with a typewriter.",
+            "The architect builds with a hammer."
+        ]
+    ],
+    "Product-Producer": [
+        [
+            "The company manufactures cars.",
+            "The farmer grows wheat.",
+            "The factory produces steel.",
+            "The chef cooks pasta.",
+            "The engineer designs bridges.",
+            "The artist paints portraits.",
+            "The scientist discovers antibiotics.",
+            "The teacher writes textbooks.",
+            "The musician composes symphonies.",
+            "The researcher develops vaccines."
+        ]
+    ],
+    "Content-Container": [
+        [
+            "The book was placed inside the box.",
+            "The baby was carried in the stroller.",
+            "The key was hidden inside the envelope.",
+            "The phone was stored in the pocket.",
+            "The flowers were put in the vase.",
+            "The food was served in the bowl.",
+            "The child was seated in the car seat.",
+            "The tools were kept in the toolbox.",
+            "The gift was wrapped in the paper.",
+            "The dog was placed in the kennel."
+        ]
+    ],
+    "Entity-Origin": [
+        [
+            "The river originates from the mountain.",
+            "The disease is caused by the virus.",
+            "The company was founded by the entrepreneur.",
+            "The story is based on the novel.",
+            "The song is inspired by the poet.",
+            "The theory was developed from the experiment.",
+            "The recipe was created by the chef.",
+            "The movement was led by the activist.",
+            "The idea was born from the conversation.",
+            "The technology was invented by the scientist."
+        ]
+    ],
+    "Entity-Destination": [
+        [
+            "The plane flies to Paris.",
+            "The train heads to New York.",
+            "The car drives to the beach.",
+            "The hikers trek to the summit.",
+            "The tourists travel to Japan.",
+            "The mailman walks to the mailbox.",
+            "The student runs to the library.",
+            "The fire truck rushes to the fire.",
+            "The ambulance speeds to the hospital.",
+            "The ship sails to the harbor."
+        ]
+    ],
+    "Component-Whole": [
+        [
+            "The wheel is a part of the car.",
+            "The engine is a component of the airplane.",
+            "The handle is a feature of the door.",
+            "The roof is a covering of the house.",
+            "The stem is a support of the plant.",
+            "The blade is a cutting tool of the knife.",
+            "The frame is a structure of the bicycle.",
+            "The antenna is a receiver of the radio.",
+            "The core is a center of the apple.",
+            "The sail is a propeller of the boat."
+        ]
+    ],
+    "Member-Collection": [
+        [
+            "The student is a member of the class.",
+            "The book is part of the collection.",
+            "The employee is a part of the team.",
+            "The city is a part of the country.",
+            "The chapter is a section of the book.",
+            "The player is a member of the squad.",
+            "The song is a track on the album.",
+            "The branch is a part of the company.",
+            "The chapter is a part of the novel.",
+            "The athlete is a member of the team."
+        ]
+    ],
+    "Message-Topic": [
+        [
+            "The news reported the election.",
+            "The article discussed the economy.",
+            "The email informed the employee.",
+            "The speech addressed the audience.",
+            "The letter explained the policy.",
+            "The report covered the scandal.",
+            "The blog post analyzed the data.",
+            "The announcement revealed the winner.",
+            "The review critiqued the movie.",
+            "The press release announced the merger."
+        ]
+    ]
+}

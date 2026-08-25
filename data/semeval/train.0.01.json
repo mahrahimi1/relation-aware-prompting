@@ -1,0 +1,642 @@
+[
+    {
+        "id": "4256",
+        "e1": "bed",
+        "e2": "post",
+        "context": "His big slouch hat even was cocked jauntily over the bed post.",
+        "tagged_context": "His big slouch hat even was cocked jauntily over the <e1> bed </e1> <e2> post </e2>.",
+        "label": "Component-Whole(e2,e1)"
+    },
+    {
+        "id": "3276",
+        "e1": "block",
+        "e2": "parking structure",
+        "context": "The northern half of the block includes a parking structure with five levels.",
+        "tagged_context": "The northern half of the <e1> block </e1> includes a <e2> parking structure </e2> with five levels.",
+        "label": "Component-Whole(e2,e1)"
+    },
+    {
+        "id": "4966",
+        "e1": "menage",
+        "e2": "guitars",
+        "context": "Mixing the best spirit of punk with a rock musician's technical ability, the 36 minutes blur past in a furious menage of soloing guitars, crunching rhythm and fantastic lead vocals.",
+        "tagged_context": "Mixing the best spirit of punk with a rock musician's technical ability, the 36 minutes blur past in a furious <e1> menage </e1> of soloing <e2> guitars </e2>, crunching rhythm and fantastic lead vocals.",
+        "label": "Component-Whole(e2,e1)"
+    },
+    {
+        "id": "3155",
+        "e1": "centrifuge",
+        "e2": "rotors",
+        "context": "He operated the centrifuge with rotors and buckets which show signs of corrosion or mechanical damage.",
+        "tagged_context": "He operated the <e1> centrifuge </e1> with <e2> rotors </e2> and buckets which show signs of corrosion or mechanical damage.",
+        "label": "Component-Whole(e2,e1)"
+    },
+    {
+        "id": "1622",
+        "e1": "jaw",
+        "e2": "bone",
+        "context": "Tasheki was taking photographs at the encounter site when a bullet hit his jaw bone.",
+        "tagged_context": "Tasheki was taking photographs at the encounter site when a bullet hit his <e1> jaw </e1> <e2> bone </e2>.",
+        "label": "Component-Whole(e2,e1)"
+    },
+    {
+        "id": "5602",
+        "e1": "research",
+        "e2": "meeting",
+        "context": "The research, performed at the Kyoto Prefectural University of Medicine, has been presented at a medical meeting in Japan.",
+        "tagged_context": "The <e1> research </e1>, performed at the Kyoto Prefectural University of Medicine, has been presented at a medical <e2> meeting </e2> in Japan.",
+        "label": "Other"
+    },
+    {
+        "id": "701",
+        "e1": "sign",
+        "e2": "length",
+        "context": "It is marked by a sign indicating the length of the pause.",
+        "tagged_context": "It is marked by a <e1> sign </e1> indicating the <e2> length </e2> of the pause.",
+        "label": "Other"
+    },
+    {
+        "id": "1403",
+        "e1": "aircraft",
+        "e2": "landing",
+        "context": "A US aircraft was dropped into a difficult landing in Mali.",
+        "tagged_context": "A US <e1> aircraft </e1> was dropped into a difficult <e2> landing </e2> in Mali.",
+        "label": "Other"
+    },
+    {
+        "id": "3405",
+        "e1": "ventricle",
+        "e2": "rotation",
+        "context": "In the healthy heart, the left ventricle performs a systolic wringing motion, with a counterclockwise rotation at the apex.",
+        "tagged_context": "In the healthy heart, the left <e1> ventricle </e1> performs a systolic wringing motion, with a counterclockwise <e2> rotation </e2> at the apex.",
+        "label": "Other"
+    },
+    {
+        "id": "6569",
+        "e1": "Children",
+        "e2": "poverty",
+        "context": "Children in rural Southern areas fell into poverty faster than those in cities in 2008.",
+        "tagged_context": "<e1> Children </e1> in rural Southern areas fell into <e2> poverty </e2> faster than those in cities in 2008.",
+        "label": "Other"
+    },
+    {
+        "id": "187",
+        "e1": "tendon",
+        "e2": "muscle",
+        "context": "Thus, in simple words, a tendon attaches a muscle to a bone.",
+        "tagged_context": "Thus, in simple words, a <e1> tendon </e1> attaches a <e2> muscle </e2> to a bone.",
+        "label": "Other"
+    },
+    {
+        "id": "1105",
+        "e1": "course",
+        "e2": "water",
+        "context": "After mile 17 the course went away from the water and onto streets with trees.",
+        "tagged_context": "After mile 17 the <e1> course </e1> went away from the <e2> water </e2> and onto streets with trees.",
+        "label": "Other"
+    },
+    {
+        "id": "1536",
+        "e1": "legacy",
+        "e2": "time",
+        "context": "A specific legacy has relation to the time of making the will.",
+        "tagged_context": "A specific <e1> legacy </e1> has relation to the <e2> time </e2> of making the will.",
+        "label": "Other"
+    },
+    {
+        "id": "7186",
+        "e1": "preservative",
+        "e2": "mercury",
+        "context": "Some inactivated influenza vaccine contains thimerosal, a preservative that contains mercury.",
+        "tagged_context": "Some inactivated influenza vaccine contains thimerosal, a <e1> preservative </e1> that contains <e2> mercury </e2>.",
+        "label": "Other"
+    },
+    {
+        "id": "1119",
+        "e1": "marshes",
+        "e2": "farms",
+        "context": "The marshes have been drained into the farms.",
+        "tagged_context": "The <e1> marshes </e1> have been drained into the <e2> farms </e2>.",
+        "label": "Other"
+    },
+    {
+        "id": "2422",
+        "e1": "technology",
+        "e2": "manufacturer",
+        "context": "For example, a technology manufacturer undertook a seven-year, $200 million human resources outsourcing effort.",
+        "tagged_context": "For example, a <e1> technology </e1> <e2> manufacturer </e2> undertook a seven-year, $200 million human resources outsourcing effort.",
+        "label": "Other"
+    },
+    {
+        "id": "6240",
+        "e1": "charts",
+        "e2": "land masses",
+        "context": "There are charts for all land masses on Earth, and long-distance charts for trans-oceanic travel.",
+        "tagged_context": "There are <e1> charts </e1> for all <e2> land masses </e2> on Earth, and long-distance charts for trans-oceanic travel.",
+        "label": "Other"
+    },
+    {
+        "id": "4595",
+        "e1": "amenities",
+        "e2": "kiosks",
+        "context": "Including amenities such as kiosks create pedestrian-friendly spaces.",
+        "tagged_context": "Including <e1> amenities </e1> such as <e2> kiosks </e2> create pedestrian-friendly spaces.",
+        "label": "Other"
+    },
+    {
+        "id": "4478",
+        "e1": "fire",
+        "e2": "area",
+        "context": "In the beginning, a fire started from the ring area of a crude oil storage tank(33000kl).",
+        "tagged_context": "In the beginning, a <e1> fire </e1> started from the ring <e2> area </e2> of a crude oil storage tank(33000kl).",
+        "label": "Other"
+    },
+    {
+        "id": "7074",
+        "e1": "mechanic",
+        "e2": "hose",
+        "context": "The whole thing was cleaned up by the mechanic with a high pressure hose.",
+        "tagged_context": "The whole thing was cleaned up by the <e1> mechanic </e1> with a high pressure <e2> hose </e2>.",
+        "label": "Instrument-Agency(e2,e1)"
+    },
+    {
+        "id": "1862",
+        "e1": "professional",
+        "e2": "lamp",
+        "context": "The health professional uses a lamp during the test.",
+        "tagged_context": "The health <e1> professional </e1> uses a <e2> lamp </e2> during the test.",
+        "label": "Instrument-Agency(e2,e1)"
+    },
+    {
+        "id": "6079",
+        "e1": "researchers",
+        "e2": "approaches",
+        "context": "Transient reduced electronic dynamics at low temperatures has been attempted by researchers using QDT approaches.",
+        "tagged_context": "Transient reduced electronic dynamics at low temperatures has been attempted by <e1> researchers </e1> using QDT <e2> approaches </e2>.",
+        "label": "Instrument-Agency(e2,e1)"
+    },
+    {
+        "id": "7263",
+        "e1": "axe",
+        "e2": "carpenter",
+        "context": "But then one of them got hold of an axe belonging to the carpenter.",
+        "tagged_context": "But then one of them got hold of an <e1> axe </e1> belonging to the <e2> carpenter </e2>.",
+        "label": "Instrument-Agency(e2,e1)"
+    },
+    {
+        "id": "1520",
+        "e1": "gangster",
+        "e2": "gang",
+        "context": "Three people who are on the verge of giving up life -- a gangster in trouble with his gang, a doctor who has lost his family, and a woman with a terminal disease -- all meet up by coincidence.",
+        "tagged_context": "Three people who are on the verge of giving up life -- a <e1> gangster </e1> in trouble with his <e2> gang </e2>, a doctor who has lost his family, and a woman with a terminal disease -- all meet up by coincidence.",
+        "label": "Member-Collection(e1,e2)"
+    },
+    {
+        "id": "7656",
+        "e1": "emigration",
+        "e2": "necessity",
+        "context": "Maybe the most significant difference is that we have changed from emigration out of necessity to emigration in search of new opportunities.",
+        "tagged_context": "Maybe the most significant difference is that we have changed from <e1> emigration </e1> out of <e2> necessity </e2> to emigration in search of new opportunities.",
+        "label": "Cause-Effect(e2,e1)"
+    },
+    {
+        "id": "1828",
+        "e1": "damage",
+        "e2": "explosion",
+        "context": "Iraqi soldiers inspect the damage after the explosion in a school in Baghdad.",
+        "tagged_context": "Iraqi soldiers inspect the <e1> damage </e1> after the <e2> explosion </e2> in a school in Baghdad.",
+        "label": "Cause-Effect(e2,e1)"
+    },
+    {
+        "id": "7927",
+        "e1": "shrinkage",
+        "e2": "washing",
+        "context": "This durable short sleeve crew neck tee shirt is made of preshrunk cotton to minimize shrinkage after washing.",
+        "tagged_context": "This durable short sleeve crew neck tee shirt is made of preshrunk cotton to minimize <e1> shrinkage </e1> after <e2> washing </e2>.",
+        "label": "Cause-Effect(e2,e1)"
+    },
+    {
+        "id": "7592",
+        "e1": "death",
+        "e2": "injection",
+        "context": "Alabama has since enacted legislation, allowing death by lethal injection as an alternative choice to death in the electric chair.",
+        "tagged_context": "Alabama has since enacted legislation, allowing <e1> death </e1> by lethal <e2> injection </e2> as an alternative choice to death in the electric chair.",
+        "label": "Cause-Effect(e2,e1)"
+    },
+    {
+        "id": "6463",
+        "e1": "landslides",
+        "e2": "aftershocks",
+        "context": "The landslides caused by these earthquakes and aftershocks were concentrated along the mudstone and sandstone surfaces.",
+        "tagged_context": "The <e1> landslides </e1> caused by these earthquakes and <e2> aftershocks </e2> were concentrated along the mudstone and sandstone surfaces.",
+        "label": "Cause-Effect(e2,e1)"
+    },
+    {
+        "id": "7724",
+        "e1": "blockage",
+        "e2": "clot",
+        "context": "In the most common form of such an attack, called ischemic stroke, the blockage comes from a blood clot that develops in one of the brain's blood vessels.",
+        "tagged_context": "In the most common form of such an attack, called ischemic stroke, the <e1> blockage </e1> comes from a blood <e2> clot </e2> that develops in one of the brain's blood vessels.",
+        "label": "Cause-Effect(e2,e1)"
+    },
+    {
+        "id": "7371",
+        "e1": "joy",
+        "e2": "awareness",
+        "context": "Genuine joy comes from profound spiritual awareness on life and an absolute clarity of direction, living for a purpose.",
+        "tagged_context": "Genuine <e1> joy </e1> comes from profound spiritual <e2> awareness </e2> on life and an absolute clarity of direction, living for a purpose.",
+        "label": "Cause-Effect(e2,e1)"
+    },
+    {
+        "id": "5588",
+        "e1": "bananas",
+        "e2": "countries",
+        "context": "Fair trade bananas have been imported into a few countries in Europe for decades.",
+        "tagged_context": "Fair trade <e1> bananas </e1> have been imported into a few <e2> countries </e2> in Europe for decades.",
+        "label": "Entity-Destination(e1,e2)"
+    },
+    {
+        "id": "1675",
+        "e1": "water",
+        "e2": "tank",
+        "context": "The water was drained into the second water drain tank through the connecting pipes.",
+        "tagged_context": "The <e1> water </e1> was drained into the second water drain <e2> tank </e2> through the connecting pipes.",
+        "label": "Entity-Destination(e1,e2)"
+    },
+    {
+        "id": "618",
+        "e1": "electricity",
+        "e2": "water",
+        "context": "Accidentally, the electricity flew into the water on the ground.",
+        "tagged_context": "Accidentally, the <e1> electricity </e1> flew into the <e2> water </e2> on the ground.",
+        "label": "Entity-Destination(e1,e2)"
+    },
+    {
+        "id": "3040",
+        "e1": "factories",
+        "e2": "developing countries",
+        "context": "The factories in developed countries are migrating into developing countries which have cheaper labors.",
+        "tagged_context": "The <e1> factories </e1> in developed countries are migrating into <e2> developing countries </e2> which have cheaper labors.",
+        "label": "Entity-Destination(e1,e2)"
+    },
+    {
+        "id": "3053",
+        "e1": "products",
+        "e2": "locations",
+        "context": "We have exported products to domestic locations only.",
+        "tagged_context": "We have exported <e1> products </e1> to domestic <e2> locations </e2> only.",
+        "label": "Entity-Destination(e1,e2)"
+    },
+    {
+        "id": "4091",
+        "e1": "data",
+        "e2": "set",
+        "context": "You have fetched character data into a standard result set.",
+        "tagged_context": "You have fetched character <e1> data </e1> into a standard result <e2> set </e2>.",
+        "label": "Entity-Destination(e1,e2)"
+    },
+    {
+        "id": "2419",
+        "e1": "prophet",
+        "e2": "cell",
+        "context": "The prophet was put into a vaulted cell in a dungeon, where he remained a long time.",
+        "tagged_context": "The <e1> prophet </e1> was put into a vaulted <e2> cell </e2> in a dungeon, where he remained a long time.",
+        "label": "Entity-Destination(e1,e2)"
+    },
+    {
+        "id": "1244",
+        "e1": "ferry",
+        "e2": "whale",
+        "context": "A Japanese ferry ran into a whale.",
+        "tagged_context": "A Japanese <e1> ferry </e1> ran into a <e2> whale </e2>.",
+        "label": "Entity-Destination(e1,e2)"
+    },
+    {
+        "id": "2424",
+        "e1": "computer chip",
+        "e2": "steel case",
+        "context": "An i-Button is a globally unique computer chip enclosed in a 16mm steel case.",
+        "tagged_context": "An i-Button is a globally unique <e1> computer chip </e1> enclosed in a 16mm <e2> steel case </e2>.",
+        "label": "Content-Container(e1,e2)"
+    },
+    {
+        "id": "6113",
+        "e1": "anthrax",
+        "e2": "suitcase",
+        "context": "The anthrax was in a suitcase, on its way to Canada.",
+        "tagged_context": "The <e1> anthrax </e1> was in a <e2> suitcase </e2>, on its way to Canada.",
+        "label": "Content-Container(e1,e2)"
+    },
+    {
+        "id": "2876",
+        "e1": "disk",
+        "e2": "jewel case",
+        "context": "In my case the disk was inside a jewel case which was itself inside the mailing box.",
+        "tagged_context": "In my case the <e1> disk </e1> was inside a <e2> jewel case </e2> which was itself inside the mailing box.",
+        "label": "Content-Container(e1,e2)"
+    },
+    {
+        "id": "2695",
+        "e1": "blood",
+        "e2": "bottle",
+        "context": "Some of that blood was in a bottle in the operating room though the record is not clear as to how it got there.",
+        "tagged_context": "Some of that <e1> blood </e1> was in a <e2> bottle </e2> in the operating room though the record is not clear as to how it got there.",
+        "label": "Content-Container(e1,e2)"
+    },
+    {
+        "id": "2314",
+        "e1": "thesis",
+        "e2": "background information",
+        "context": "His graduation thesis supplied valuable background information on the subject of the duel.",
+        "tagged_context": "His graduation <e1> thesis </e1> supplied valuable <e2> background information </e2> on the subject of the duel.",
+        "label": "Message-Topic(e1,e2)"
+    },
+    {
+        "id": "2603",
+        "e1": "Criticism",
+        "e2": "storyline",
+        "context": "Criticism was directed at its storyline.",
+        "tagged_context": "<e1> Criticism </e1> was directed at its <e2> storyline </e2>.",
+        "label": "Message-Topic(e1,e2)"
+    },
+    {
+        "id": "5162",
+        "e1": "films",
+        "e2": "extraterrestrial life",
+        "context": "This is a list of films that feature extraterrestrial life.",
+        "tagged_context": "This is a list of <e1> films </e1> that feature <e2> extraterrestrial life </e2>.",
+        "label": "Message-Topic(e1,e2)"
+    },
+    {
+        "id": "5186",
+        "e1": "journals",
+        "e2": "biomedical research",
+        "context": "Furthermore, many journals publishing biomedical research demand formal ethical clearance.",
+        "tagged_context": "Furthermore, many <e1> journals </e1> publishing <e2> biomedical research </e2> demand formal ethical clearance.",
+        "label": "Message-Topic(e1,e2)"
+    },
+    {
+        "id": "7090",
+        "e1": "guide",
+        "e2": "chronological order",
+        "context": "The guide depicts the chronological order of electronic music genres' appearance.",
+        "tagged_context": "The <e1> guide </e1> depicts the <e2> chronological order </e2> of electronic music genres' appearance.",
+        "label": "Message-Topic(e1,e2)"
+    },
+    {
+        "id": "4140",
+        "e1": "inventor",
+        "e2": "radio",
+        "context": "The veteran inventor best-known for creating the clockwork radio is planning to float his incubator company on the Stock Exchange.",
+        "tagged_context": "The veteran <e1> inventor </e1> best-known for creating the clockwork <e2> radio </e2> is planning to float his incubator company on the Stock Exchange.",
+        "label": "Product-Producer(e2,e1)"
+    },
+    {
+        "id": "478",
+        "e1": "author",
+        "e2": "work",
+        "context": "The author's reasons for creating a work differ remarkably from his incentive to publicly distribute the work.",
+        "tagged_context": "The <e1> author </e1>'s reasons for creating a <e2> work </e2> differ remarkably from his incentive to publicly distribute the work.",
+        "label": "Product-Producer(e2,e1)"
+    },
+    {
+        "id": "727",
+        "e1": "defendant",
+        "e2": "statement",
+        "context": "In defamation, the circumstances are that the defendant has made a statement which injures the reputation of the claimant.",
+        "tagged_context": "In defamation, the circumstances are that the <e1> defendant </e1> has made a <e2> statement </e2> which injures the reputation of the claimant.",
+        "label": "Product-Producer(e2,e1)"
+    },
+    {
+        "id": "3619",
+        "e1": "girlfriend",
+        "e2": "sweater",
+        "context": "Speaking of nerdy sweaters, my girlfriend knit me a Mugatu sweater for xmas a few years back.",
+        "tagged_context": "Speaking of nerdy sweaters, my <e1> girlfriend </e1> knit me a Mugatu <e2> sweater </e2> for xmas a few years back.",
+        "label": "Product-Producer(e2,e1)"
+    },
+    {
+        "id": "1286",
+        "e1": "huddle",
+        "e2": "photographers",
+        "context": "A huddle of photographers was waiting outside the courtroom.",
+        "tagged_context": "A <e1> huddle </e1> of <e2> photographers </e2> was waiting outside the courtroom.",
+        "label": "Member-Collection(e2,e1)"
+    },
+    {
+        "id": "5076",
+        "e1": "scurry",
+        "e2": "squirrels",
+        "context": "Their dash raised a flock of morning doves and caused a scurry of ground squirrels into their holes.",
+        "tagged_context": "Their dash raised a flock of morning doves and caused a <e1> scurry </e1> of ground <e2> squirrels </e2> into their holes.",
+        "label": "Member-Collection(e2,e1)"
+    },
+    {
+        "id": "5606",
+        "e1": "nest",
+        "e2": "rabbits",
+        "context": "There is a nest of rabbits up in the loft.",
+        "tagged_context": "There is a <e1> nest </e1> of <e2> rabbits </e2> up in the loft.",
+        "label": "Member-Collection(e2,e1)"
+    },
+    {
+        "id": "2369",
+        "e1": "squad",
+        "e2": "policemen",
+        "context": "The street outside the side entrance was decked, however, with three limousines double-parked and a squad of motorcycle policemen stood at the door.",
+        "tagged_context": "The street outside the side entrance was decked, however, with three limousines double-parked and a <e1> squad </e1> of motorcycle <e2> policemen </e2> stood at the door.",
+        "label": "Member-Collection(e2,e1)"
+    },
+    {
+        "id": "6977",
+        "e1": "congregation",
+        "e2": "hippos",
+        "context": "Lake St. Lucia, Africa's largest estuary, is home to the greatest congregation of hippos and crocodiles in South Africa.",
+        "tagged_context": "Lake St. Lucia, Africa's largest estuary, is home to the greatest <e1> congregation </e1> of <e2> hippos </e2> and crocodiles in South Africa.",
+        "label": "Member-Collection(e2,e1)"
+    },
+    {
+        "id": "6022",
+        "e1": "pleiad",
+        "e2": "authors",
+        "context": "From 1958 to the present, he has cautiously undertaken a close collaboration with a pleiad of reputed authors in his cinematic endeavors.",
+        "tagged_context": "From 1958 to the present, he has cautiously undertaken a close collaboration with a <e1> pleiad </e1> of reputed <e2> authors </e2> in his cinematic endeavors.",
+        "label": "Member-Collection(e2,e1)"
+    },
+    {
+        "id": "1195",
+        "e1": "cabin",
+        "e2": "site",
+        "context": "The cabin was moved from its original site near Huxley, Iowa, as a project of the Ames Heritage Association.",
+        "tagged_context": "The <e1> cabin </e1> was moved from its original <e2> site </e2> near Huxley, Iowa, as a project of the Ames Heritage Association.",
+        "label": "Entity-Origin(e1,e2)"
+    },
+    {
+        "id": "2919",
+        "e1": "updates",
+        "e2": "years",
+        "context": "The following are pages of MeSH annual updates from previous years.",
+        "tagged_context": "The following are pages of MeSH annual <e1> updates </e1> from previous <e2> years </e2>.",
+        "label": "Entity-Origin(e1,e2)"
+    },
+    {
+        "id": "3675",
+        "e1": "band",
+        "e2": "competition",
+        "context": "The current band arrived from the Lafayette competition.",
+        "tagged_context": "The current <e1> band </e1> arrived from the Lafayette <e2> competition </e2>.",
+        "label": "Entity-Origin(e1,e2)"
+    },
+    {
+        "id": "3406",
+        "e1": "radiation burst",
+        "e2": "supernova remnant",
+        "context": "The radiation burst was coming from a supernova remnant known as N49 in the galaxy known as the Large Magellanic Cloud.",
+        "tagged_context": "The <e1> radiation burst </e1> was coming from a <e2> supernova remnant </e2> known as N49 in the galaxy known as the Large Magellanic Cloud.",
+        "label": "Entity-Origin(e1,e2)"
+    },
+    {
+        "id": "3784",
+        "e1": "oratorio",
+        "e2": "century",
+        "context": "As a form, the oratorio originated in seventeenth century.",
+        "tagged_context": "As a form, the <e1> oratorio </e1> originated in seventeenth <e2> century </e2>.",
+        "label": "Entity-Origin(e1,e2)"
+    },
+    {
+        "id": "7785",
+        "e1": "excerpt",
+        "e2": "book",
+        "context": "The following excerpt is from the self help psychology book, Be Your Own Therapist.",
+        "tagged_context": "The following <e1> excerpt </e1> is from the self help psychology <e2> book </e2>, Be Your Own Therapist.",
+        "label": "Entity-Origin(e1,e2)"
+    },
+    {
+        "id": "6853",
+        "e1": "burrows",
+        "e2": "rashes",
+        "context": "The mite's burrows, fecal matter, proteins and eggs cause itching, rashes and sensitivity.",
+        "tagged_context": "The mite's <e1> burrows </e1>, fecal matter, proteins and eggs cause itching, <e2> rashes </e2> and sensitivity.",
+        "label": "Cause-Effect(e1,e2)"
+    },
+    {
+        "id": "6838",
+        "e1": "stress",
+        "e2": "corrosion",
+        "context": "Special articles specifically on gas corrosion and stress corrosion are also available in the literature.",
+        "tagged_context": "Special articles specifically on gas corrosion and <e1> stress </e1> <e2> corrosion </e2> are also available in the literature.",
+        "label": "Cause-Effect(e1,e2)"
+    },
+    {
+        "id": "545",
+        "e1": "Preeclampsia",
+        "e2": "mortality",
+        "context": "Preeclampsia is still one of the leading causes of maternal mortality.",
+        "tagged_context": "<e1> Preeclampsia </e1> is still one of the leading causes of maternal <e2> mortality </e2>.",
+        "label": "Cause-Effect(e1,e2)"
+    },
+    {
+        "id": "474",
+        "e1": "platform",
+        "e2": "ship",
+        "context": "The drill platform was a part of the Romulan mining ship Narada that could be lowered into the atmosphere of a planet or planetoid for mining operations.",
+        "tagged_context": "The drill <e1> platform </e1> was a part of the Romulan mining <e2> ship </e2> Narada that could be lowered into the atmosphere of a planet or planetoid for mining operations.",
+        "label": "Component-Whole(e1,e2)"
+    },
+    {
+        "id": "7764",
+        "e1": "hole",
+        "e2": "metal box",
+        "context": "A high voltage coupling capacitor is added at the input as well as a small hole in the metal box in order to provide screwdriver adjustment to the gain control potentiometer.",
+        "tagged_context": "A high voltage coupling capacitor is added at the input as well as a small <e1> hole </e1> in the <e2> metal box </e2> in order to provide screwdriver adjustment to the gain control potentiometer.",
+        "label": "Component-Whole(e1,e2)"
+    },
+    {
+        "id": "3193",
+        "e1": "haft",
+        "e2": "axe",
+        "context": "The haft of the axe is make of yew wood.",
+        "tagged_context": "The <e1> haft </e1> of the <e2> axe </e2> is make of yew wood.",
+        "label": "Component-Whole(e1,e2)"
+    },
+    {
+        "id": "6480",
+        "e1": "chassis",
+        "e2": "truck",
+        "context": "The chassis of the truck has two wooden beams fixed to it, which carry the body framework; two monorails.",
+        "tagged_context": "The <e1> chassis </e1> of the <e2> truck </e2> has two wooden beams fixed to it, which carry the body framework; two monorails.",
+        "label": "Component-Whole(e1,e2)"
+    },
+    {
+        "id": "7363",
+        "e1": "cupboards",
+        "e2": "kitchen",
+        "context": "I find it hard to bend and reach and use the cupboards in my kitchen.",
+        "tagged_context": "I find it hard to bend and reach and use the <e1> cupboards </e1> in my <e2> kitchen </e2>.",
+        "label": "Component-Whole(e1,e2)"
+    },
+    {
+        "id": "2717",
+        "e1": "climate change",
+        "e2": "talks",
+        "context": "Delegates from the developing world have suspended their participation in climate change talks in Copenhagen today, bringing negotiations to a temporary stop.",
+        "tagged_context": "Delegates from the developing world have suspended their participation in <e1> climate change </e1> <e2> talks </e2> in Copenhagen today, bringing negotiations to a temporary stop.",
+        "label": "Message-Topic(e2,e1)"
+    },
+    {
+        "id": "1453",
+        "e1": "components",
+        "e2": "workers",
+        "context": "Factories accommodated large-scale manufacture and assembly of aircraft components by unskilled workers.",
+        "tagged_context": "Factories accommodated large-scale manufacture and assembly of aircraft <e1> components </e1> by unskilled <e2> workers </e2>.",
+        "label": "Product-Producer(e1,e2)"
+    },
+    {
+        "id": "3836",
+        "e1": "creation",
+        "e2": "students",
+        "context": "A gingerbread house creation by the culinary art students of Wake Tech was auctioned off at the Umstead Hotel in Cary.",
+        "tagged_context": "A gingerbread house <e1> creation </e1> by the culinary art <e2> students </e2> of Wake Tech was auctioned off at the Umstead Hotel in Cary.",
+        "label": "Product-Producer(e1,e2)"
+    },
+    {
+        "id": "3182",
+        "e1": "promises",
+        "e2": "leaders",
+        "context": "We hear promises from our leaders of big change in the future, without any credible plans right now.",
+        "tagged_context": "We hear <e1> promises </e1> from our <e2> leaders </e2> of big change in the future, without any credible plans right now.",
+        "label": "Product-Producer(e1,e2)"
+    },
+    {
+        "id": "7217",
+        "e1": "fruit",
+        "e2": "sugar",
+        "context": "Fruit juice has all the fruit sugar and none of the fruit fiber, and only some of the fruit nutrients.",
+        "tagged_context": "Fruit juice has all the <e1> fruit </e1> <e2> sugar </e2> and none of the fruit fiber, and only some of the fruit nutrients.",
+        "label": "Entity-Origin(e2,e1)"
+    },
+    {
+        "id": "2329",
+        "e1": "suitcase",
+        "e2": "cocaine",
+        "context": "A passenger was taken into custody after trying to bring a suitcase full of cocaine onto a plane at Philadelphia International Airport.",
+        "tagged_context": "A passenger was taken into custody after trying to bring a <e1> suitcase </e1> full of <e2> cocaine </e2> onto a plane at Philadelphia International Airport.",
+        "label": "Content-Container(e2,e1)"
+    },
+    {
+        "id": "1718",
+        "e1": "bottle",
+        "e2": "air",
+        "context": "When a bottle full of air is opened under water, the water will not enter the bottle.",
+        "tagged_context": "When a <e1> bottle </e1> full of <e2> air </e2> is opened under water, the water will not enter the bottle.",
+        "label": "Content-Container(e2,e1)"
+    },
+    {
+        "id": "7377",
+        "e1": "broadsword",
+        "e2": "units",
+        "context": "The broadsword was used in some units, particularly Scottish regiments.",
+        "tagged_context": "The <e1> broadsword </e1> was used in some <e2> units </e2>, particularly Scottish regiments.",
+        "label": "Instrument-Agency(e1,e2)"
+    }
+]
