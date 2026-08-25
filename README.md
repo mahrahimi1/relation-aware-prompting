@@ -17,7 +17,7 @@ Note:
 - Then simply run the script: `python run_eval_tacred_openai.py`
 
 ### Running the Open-source Models
-We used Hugging Face inference providers to run `Llama-3.1-70B-Instruct` and `gemma-3-27b-it` experiments. For `mistral-large-2411`, we used the inference providers from Mistral. However, if you prefer to run these models locally on your own machines, it is also possible and we provide the means for that.
+We used Hugging Face inference providers to run `Llama-3.1-70B-Instruct` and `gemma-3-27b-it` experiments. For `mistral-large-2411`, we used the inference providers from Mistral. However, if you prefer to run these models locally on your own machines and using your own GPUs, it is also possible and we provide the means for that.
 
 #### Running the Hugging Face Inference Providers
 To run `Llama-3.1-70B-Instruct` and `gemma-3-27b-it` experiments, we used `run_eval_{dataset_name}_opensource_api.py` where *dataset_name* is the name of the dataset. So for example for TACRED, run `run_eval_tacred_opensource_api.py`.
@@ -29,4 +29,22 @@ Note:
 - Then simply run the script: `python run_eval_tacred_opensource_api.py`
 
 #### Running the Mistral Inference Provider
-To run `mistral-large-2411`, we used the provider from [Mistral](https://mistral.ai/pricing/api/).
+To run `mistral-large-2411`, we used the provider from [Mistral](https://mistral.ai/pricing/api/). We ran `run_eval_{dataset_name}_mistral_api.py` where *dataset_name* is the name of the dataset. So for example for TACRED, run `run_eval_tacred_mistral_api.py`.
+
+Note:
+- To provide your mistral.ai API key, open the file in a text editor and update the variable `api_key` by assigning your key to the variable.
+- Then simply run the script: `python run_eval_tacred_mistral_api.py`
+
+#### Running the Open-source Models Locally on Your Own Machines and GPUs
+For each dataset, we provide a file called `run_eval_{dataset_name}_opensource.py` (e.g. `run_eval_tacred_opensource.py`) where you can run an open-source model locally using Hugging Face `transformers`.
+
+Note:
+- We did not use this method for our experiments. As mentioned before, we used cloud providers to run our experiments instead of running them locally.
+- To provide the Hugging Face token, open the file in a text editor and update the variable `token` by assigning your token to the variable.
+- To choose the model, update the `model` variable to your model of choosing, e.g. `meta-llama/Llama-3.1-8B-Instruct`, `google/gemma-2-9b-it`, etc.
+- Always set the `model_family` variable to `Model_Family.OPEN_SOURCE` unless the model is `meta-llama/Llama-3.1-8B-Instruct`. Due to some issues with the model, we created a special model family for it `Model_Family.LLAMA_31_8B`.
+- Use `AutoModelForCausalLM` and `AutoTokenizer` to load your model and its tokenizer. Each models has its own special settings and nuances that you need to take care of, such as tokenizer's `padding_side`, `pad_token`, etc.
+- Then simply run the script: `python run_eval_tacred_opensource.py`
+
+### Note about Synthesizing Examples
+As part of our approach, we generate synthesized examples (to be used as demonstrations in prompts). Since we have already run the experiments, these synthesized examples are already present in `json` subdirectories in the `evaluation` subdirectories. Therefore, the experiments scripts don't re-generate these synthesized examples when run. If you would like to re-generate the synthesized examples, there is a variable called `synthesize_examples` in all experiments scripts that is set to `False`. If you would like to re-generate the synthesized examples, set it to `True`.
